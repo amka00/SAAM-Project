@@ -5,6 +5,7 @@ import numpy as np
 from pathlib import Path
 
 
+
 # 1. FILE MAPPING - Standardizing names for the Pacific Scope 1 Strategy
 file_mapping = {
     "Static_2025.xlsx": "Static.csv",
