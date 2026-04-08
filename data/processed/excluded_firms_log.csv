@@ -1,0 +1,4056 @@
+ISIN,year,reason
+AU000000ABC7,2004,no_carbon_data
+AU000000ALL7,2004,no_carbon_data
+AU000000AMP6,2004,no_carbon_data
+AU000000ANN9,2004,no_carbon_data
+AU000000ANZ3,2004,no_carbon_data
+AU000000APA1,2004,no_carbon_data
+AU000000ASX7,2004,no_carbon_data
+AU000000BEN6,2004,no_carbon_data
+AU000000BHP4,2004,no_carbon_data
+AU000000BLD2,2004,no_carbon_data
+AU000000BOQ8,2004,no_carbon_data
+AU000000BPT9,2004,no_carbon_data
+AU000000BSL0,2004,insufficient_history(29mo) | no_carbon_data
+AU000000BWP3,2004,no_carbon_data
+AU000000CBA7,2004,no_carbon_data
+AU000000CGF5,2004,no_carbon_data
+AU000000CIM7,2004,no_carbon_data
+AU000000COH5,2004,no_carbon_data
+AU000000CPU5,2004,no_carbon_data
+AU000000CQR9,2004,no_carbon_data
+AU000000CSL8,2004,no_carbon_data
+AU000000CSR5,2004,no_carbon_data
+AU000000CWY3,2004,insufficient_history(0mo) | no_carbon_data
+AU000000DOW2,2004,no_carbon_data
+AU000000DXS1,2004,no_carbon_data
+AU000000ELD6,2004,no_carbon_data
+AU000000ERA9,2004,no_carbon_data
+AU000000FLT9,2004,no_carbon_data
+AU000000GMG2,2004,no_carbon_data
+AU000000GWA4,2004,no_carbon_data
+AU000000HIL8,2004,no_carbon_data
+AU000000HVN7,2004,no_carbon_data
+AU000000IAG3,2004,no_carbon_data
+AU000000IFL2,2004,insufficient_history(12mo) | no_carbon_data
+AU000000IGO4,2004,insufficient_history(35mo) | no_carbon_data
+AU000000ILU1,2004,no_carbon_data
+AU000000IRE2,2004,no_carbon_data
+AU000000IVC8,2004,insufficient_history(12mo) | no_carbon_data
+AU000000JBH7,2004,insufficient_history(14mo) | no_carbon_data
+AU000000LLC3,2004,no_carbon_data
+AU000000MAH3,2004,no_carbon_data
+AU000000MGR9,2004,no_carbon_data
+AU000000MGX7,2004,stale_prices | no_carbon_data
+AU000000MND5,2004,no_carbon_data
+AU000000MQG1,2004,no_carbon_data
+AU000000MTS0,2004,no_carbon_data
+AU000000NAB4,2004,no_carbon_data
+AU000000NCM7,2004,no_carbon_data
+AU000000ORG5,2004,no_carbon_data
+AU000000ORI1,2004,no_carbon_data
+AU000000OZL8,2004,no_carbon_data
+AU000000PPT9,2004,no_carbon_data
+AU000000QAN2,2004,no_carbon_data
+AU000000QBE9,2004,no_carbon_data
+AU000000RHC8,2004,stale_prices | no_carbon_data
+AU000000SBM8,2004,no_carbon_data
+AU000000SDG6,2004,no_carbon_data
+AU000000SEK6,2004,insufficient_history(0mo) | no_carbon_data
+AU000000SGM7,2004,no_carbon_data
+AU000000SGP0,2004,no_carbon_data
+AU000000SHL7,2004,no_carbon_data
+AU000000SIG5,2004,insufficient_history(26mo) | no_carbon_data
+AU000000STO6,2004,no_carbon_data
+AU000000SUN6,2004,no_carbon_data
+AU000000SWM4,2004,no_carbon_data
+AU000000SXL4,2004,insufficient_history(0mo) | no_carbon_data
+AU000000TAH8,2004,no_carbon_data
+AU000000TCL6,2004,no_carbon_data
+AU000000TLS2,2004,no_carbon_data
+AU000000WBC1,2004,no_carbon_data
+AU000000WES1,2004,no_carbon_data
+AU000000WOR2,2004,insufficient_history(25mo) | no_carbon_data
+AU000000WOW2,2004,no_carbon_data
+AU0000032187,2004,no_carbon_data
+AU0000033359,2004,no_carbon_data
+AU0000038911,2004,no_carbon_data
+AU0000088338,2004,no_carbon_data
+AU0000224040,2004,no_carbon_data
+BMG2108M2182,2004,no_carbon_data
+BMG2178K1009,2004,no_carbon_data
+BMG2442N1048,2004,no_carbon_data
+BMG2624N1535,2004,no_carbon_data
+BMG4600H1198,2004,no_carbon_data
+BMG4639H1227,2004,stale_prices | no_carbon_data
+BMG507361001,2004,no_carbon_data
+BMG524401079,2004,no_carbon_data
+BMG5320C1082,2004,no_carbon_data
+BMG668971101,2004,no_carbon_data
+BMG677491539,2004,no_carbon_data
+BMG684371393,2004,insufficient_history(5mo) | no_carbon_data
+BMG8063F1068,2004,no_carbon_data
+BMG8403G1033,2004,no_carbon_data
+BMG988031446,2004,no_carbon_data
+HK0000049939,2004,no_carbon_data
+HK0000055878,2004,no_carbon_data
+HK0000139300,2004,no_carbon_data
+HK0000592854,2004,no_carbon_data
+HK0000608585,2004,no_carbon_data
+HK0000745908,2004,no_carbon_data
+HK0002007356,2004,no_carbon_data
+HK0003000038,2004,no_carbon_data
+HK0004000045,2004,no_carbon_data
+HK0006000050,2004,no_carbon_data
+HK0008011667,2004,no_carbon_data
+HK0010000088,2004,no_carbon_data
+HK0011000095,2004,no_carbon_data
+HK0012000102,2004,no_carbon_data
+HK0014000126,2004,no_carbon_data
+HK0016000132,2004,no_carbon_data
+HK0019000162,2004,no_carbon_data
+HK0023000190,2004,no_carbon_data
+HK0066009694,2004,no_carbon_data
+HK0083000502,2004,no_carbon_data
+HK0101000591,2004,no_carbon_data
+HK0144000764,2004,no_carbon_data
+HK0165000859,2004,no_carbon_data
+HK0200030994,2004,no_carbon_data
+HK0242001243,2004,no_carbon_data
+HK0270001396,2004,no_carbon_data
+HK0291001490,2004,no_carbon_data
+HK0308001558,2004,no_carbon_data
+HK0363006039,2004,no_carbon_data
+HK0388045442,2004,no_carbon_data
+HK0392044647,2004,no_carbon_data
+HK0440001847,2004,no_carbon_data
+HK0688002218,2004,no_carbon_data
+HK0823032773,2004,insufficient_history(0mo) | no_carbon_data
+HK0836012952,2004,insufficient_history(13mo) | no_carbon_data
+HK2380027329,2004,insufficient_history(2mo) | no_carbon_data
+HK2388011192,2004,insufficient_history(29mo) | no_carbon_data
+IE00BKVD2N49,2004,insufficient_history(24mo) | no_carbon_data
+JP3027670003,2004,no_carbon_data
+JP3027680002,2004,no_carbon_data
+JP3039710003,2004,insufficient_history(33mo) | no_carbon_data
+JP3040890000,2004,insufficient_history(30mo) | no_carbon_data
+JP3102000001,2004,no_carbon_data
+JP3108600002,2004,no_carbon_data
+JP3111200006,2004,no_carbon_data
+JP3112000009,2004,no_carbon_data
+JP3116000005,2004,no_carbon_data
+JP3118000003,2004,insufficient_history(18mo) | no_carbon_data
+JP3119600009,2004,no_carbon_data
+JP3122400009,2004,no_carbon_data
+JP3122800000,2004,no_carbon_data
+JP3125800007,2004,no_carbon_data
+JP3126340003,2004,insufficient_history(34mo) | no_carbon_data
+JP3126400005,2004,no_carbon_data
+JP3131400008,2004,no_carbon_data
+JP3131430005,2004,insufficient_history(29mo) | no_carbon_data
+JP3134800006,2004,no_carbon_data
+JP3137200006,2004,no_carbon_data
+JP3143000002,2004,no_carbon_data
+JP3143600009,2004,no_carbon_data
+JP3143900003,2004,stale_prices | no_carbon_data
+JP3148800000,2004,no_carbon_data
+JP3152740001,2004,no_carbon_data
+JP3156400008,2004,no_carbon_data
+JP3158800007,2004,no_carbon_data
+JP3160400002,2004,no_carbon_data
+JP3162600005,2004,no_carbon_data
+JP3164630000,2004,no_carbon_data
+JP3164720009,2004,insufficient_history(17mo) | stale_prices | no_carbon_data
+JP3164800009,2004,no_carbon_data
+JP3165600002,2004,no_carbon_data
+JP3165700000,2004,no_carbon_data
+JP3166000004,2004,no_carbon_data
+JP3167500002,2004,insufficient_history(0mo) | no_carbon_data
+JP3172100004,2004,no_carbon_data
+JP3173400007,2004,no_carbon_data
+JP3174410005,2004,no_carbon_data
+JP3180400008,2004,no_carbon_data
+JP3188220002,2004,insufficient_history(0mo) | no_carbon_data
+JP3190000004,2004,no_carbon_data
+JP3194000000,2004,no_carbon_data
+JP3196000008,2004,no_carbon_data
+JP3197600004,2004,no_carbon_data
+JP3198900007,2004,no_carbon_data
+JP3200450009,2004,no_carbon_data
+JP3201200007,2004,no_carbon_data
+JP3203500008,2004,no_carbon_data
+JP3205800000,2004,no_carbon_data
+JP3209000003,2004,no_carbon_data
+JP3210200006,2004,no_carbon_data
+JP3215800008,2004,no_carbon_data
+JP3218900003,2004,stale_prices | no_carbon_data
+JP3219000001,2004,no_carbon_data
+JP3223800008,2004,no_carbon_data
+JP3224200000,2004,stale_prices
+JP3228600007,2004,no_carbon_data
+JP3229400001,2004,no_carbon_data
+JP3236200006,2004,no_carbon_data
+JP3240400006,2004,no_carbon_data
+JP3243600008,2004,no_carbon_data
+JP3246400000,2004,no_carbon_data
+JP3249600002,2004,no_carbon_data
+JP3258000003,2004,no_carbon_data
+JP3260800002,2004,no_carbon_data
+JP3263000006,2004,no_carbon_data
+JP3266400005,2004,no_carbon_data
+JP3268950007,2004,no_carbon_data
+JP3269600007,2004,no_carbon_data
+JP3270000007,2004,no_carbon_data
+JP3271400008,2004,no_carbon_data
+JP3274400005,2004,insufficient_history(17mo) | no_carbon_data
+JP3276400003,2004,no_carbon_data
+JP3277800003,2004,no_carbon_data
+JP3278600006,2004,no_carbon_data
+JP3280200001,2004,no_carbon_data
+JP3283650004,2004,no_carbon_data
+JP3289800009,2004,no_carbon_data
+JP3292200007,2004,no_carbon_data
+JP3293200006,2004,no_carbon_data
+JP3294460005,2004,insufficient_history(1mo) | stale_prices | no_carbon_data
+JP3300200007,2004,no_carbon_data
+JP3300600008,2004,no_carbon_data
+JP3304200003,2004,no_carbon_data
+JP3305530002,2004,no_carbon_data
+JP3305800009,2004,no_carbon_data
+JP3305990008,2004,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2004,no_carbon_data
+JP3322930003,2004,insufficient_history(0mo) | no_carbon_data
+JP3326410002,2004,no_carbon_data
+JP3336000009,2004,no_carbon_data
+JP3336600006,2004,no_carbon_data
+JP3347200002,2004,no_carbon_data
+JP3350800003,2004,no_carbon_data
+JP3351100007,2004,stale_prices | no_carbon_data
+JP3351500008,2004,no_carbon_data
+JP3351600006,2004,no_carbon_data
+JP3352000008,2004,no_carbon_data
+JP3352400000,2004,no_carbon_data
+JP3357200009,2004,no_carbon_data
+JP3358000002,2004,no_carbon_data
+JP3358200008,2004,no_carbon_data
+JP3358800005,2004,no_carbon_data
+JP3359600008,2004,no_carbon_data
+JP3362700001,2004,no_carbon_data
+JP3368000000,2004,no_carbon_data
+JP3371200001,2004,no_carbon_data
+JP3375800004,2004,no_carbon_data
+JP3381000003,2004,no_carbon_data
+JP3385820000,2004,no_carbon_data
+JP3385980002,2004,no_carbon_data
+JP3386030005,2004,insufficient_history(27mo) | no_carbon_data
+JP3388200002,2004,no_carbon_data
+JP3389900006,2004,no_carbon_data
+JP3396350005,2004,stale_prices | no_carbon_data
+JP3397200001,2004,no_carbon_data
+JP3398000004,2004,stale_prices | no_carbon_data
+JP3399400005,2004,no_carbon_data
+JP3400900001,2004,no_carbon_data
+JP3402600005,2004,no_carbon_data
+JP3404200002,2004,no_carbon_data
+JP3404600003,2004,no_carbon_data
+JP3405400007,2004,no_carbon_data
+JP3407200009,2004,insufficient_history(33mo) | no_carbon_data
+JP3407400005,2004,no_carbon_data
+JP3409000001,2004,no_carbon_data
+JP3411000007,2004,no_carbon_data
+JP3414750004,2004,insufficient_history(18mo)
+JP3415400005,2004,no_carbon_data
+JP3419050004,2004,no_carbon_data
+JP3419400001,2004,no_carbon_data
+JP3420600003,2004,no_carbon_data
+JP3421100003,2004,insufficient_history(12mo) | no_carbon_data
+JP3421800008,2004,no_carbon_data
+JP3425000001,2004,no_carbon_data
+JP3436100006,2004,no_carbon_data
+JP3436120004,2004,stale_prices | no_carbon_data
+JP3452000007,2004,no_carbon_data
+JP3456000003,2004,no_carbon_data
+JP3459600007,2004,no_carbon_data
+JP3463000004,2004,no_carbon_data
+JP3475350009,2004,no_carbon_data
+JP3481800005,2004,no_carbon_data
+JP3485800001,2004,no_carbon_data
+JP3486800000,2004,insufficient_history(27mo) | stale_prices | no_carbon_data
+JP3491000000,2004,no_carbon_data
+JP3493400000,2004,no_carbon_data
+JP3494600004,2004,no_carbon_data
+JP3495000006,2004,no_carbon_data
+JP3496400007,2004,no_carbon_data
+JP3499800005,2004,no_carbon_data
+JP3500610005,2004,stale_prices | no_carbon_data
+JP3502200003,2004,no_carbon_data
+JP3505000004,2004,no_carbon_data
+JP3511800009,2004,no_carbon_data
+JP3519400000,2004,no_carbon_data
+JP3522200009,2004,no_carbon_data
+JP3526600006,2004,no_carbon_data
+JP3528600004,2004,no_carbon_data
+JP3535800001,2004,stale_prices | no_carbon_data
+JP3538800008,2004,no_carbon_data
+JP3539220008,2004,insufficient_history(8mo) | no_carbon_data
+JP3539250005,2004,stale_prices | no_carbon_data
+JP3544000007,2004,no_carbon_data
+JP3546800008,2004,no_carbon_data
+JP3548610009,2004,insufficient_history(0mo) | no_carbon_data
+JP3549600009,2004,no_carbon_data
+JP3551200003,2004,insufficient_history(2mo) | no_carbon_data
+JP3551500006,2004,no_carbon_data
+JP3551520004,2004,no_carbon_data
+JP3560800009,2004,no_carbon_data
+JP3566800003,2004,no_carbon_data
+JP3571400005,2004,no_carbon_data
+JP3573000001,2004,no_carbon_data
+JP3574200006,2004,no_carbon_data
+JP3579800008,2004,no_carbon_data
+JP3582600007,2004,no_carbon_data
+JP3585800000,2004,no_carbon_data
+JP3588600001,2004,no_carbon_data
+JP3592200004,2004,no_carbon_data
+JP3595200001,2004,no_carbon_data
+JP3597800006,2004,no_carbon_data
+JP3598600009,2004,no_carbon_data
+JP3599000001,2004,no_carbon_data
+JP3600200004,2004,no_carbon_data
+JP3613000003,2004,no_carbon_data
+JP3613400005,2004,no_carbon_data
+JP3619800000,2004,no_carbon_data
+JP3621000003,2004,no_carbon_data
+JP3625000009,2004,no_carbon_data
+JP3626800001,2004,no_carbon_data
+JP3629000005,2004,no_carbon_data
+JP3633400001,2004,no_carbon_data
+JP3634200004,2004,no_carbon_data
+JP3635000007,2004,no_carbon_data
+JP3635400009,2004,no_carbon_data
+JP3637300009,2004,no_carbon_data
+JP3638600001,2004,no_carbon_data
+JP3658850007,2004,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2004,no_carbon_data
+JP3663900003,2004,insufficient_history(20mo) | no_carbon_data
+JP3665200006,2004,no_carbon_data
+JP3667600005,2004,no_carbon_data
+JP3670800006,2004,no_carbon_data
+JP3672400003,2004,no_carbon_data
+JP3675600005,2004,no_carbon_data
+JP3676800000,2004,no_carbon_data
+JP3678000005,2004,no_carbon_data
+JP3684000007,2004,no_carbon_data
+JP3684400009,2004,no_carbon_data
+JP3686800008,2004,no_carbon_data
+JP3688370000,2004,no_carbon_data
+JP3689500001,2004,no_carbon_data
+JP3695200000,2004,stale_prices | no_carbon_data
+JP3711200000,2004,insufficient_history(0mo) | stale_prices | no_carbon_data
+JP3711600001,2004,no_carbon_data
+JP3718800000,2004,no_carbon_data
+JP3720800006,2004,no_carbon_data
+JP3721400004,2004,no_carbon_data
+JP3726200003,2004,no_carbon_data
+JP3726800000,2004,no_carbon_data
+JP3729000004,2004,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2004,no_carbon_data
+JP3733400000,2004,no_carbon_data
+JP3734800000,2004,no_carbon_data
+JP3735400008,2004,stale_prices
+JP3738600000,2004,no_carbon_data
+JP3742600004,2004,no_carbon_data
+JP3743000006,2004,no_carbon_data
+JP3753000003,2004,no_carbon_data
+JP3756100008,2004,no_carbon_data
+JP3756600007,2004,no_carbon_data
+JP3762600009,2004,no_carbon_data
+JP3762800005,2004,no_carbon_data
+JP3765400001,2004,no_carbon_data
+JP3766550002,2004,insufficient_history(0mo) | stale_prices | no_carbon_data
+JP3768600003,2004,insufficient_history(9mo) | stale_prices | no_carbon_data
+JP3769000005,2004,stale_prices | no_carbon_data
+JP3771800004,2004,no_carbon_data
+JP3774200004,2004,no_carbon_data
+JP3778630008,2004,no_carbon_data
+JP3780100008,2004,no_carbon_data
+JP3783420007,2004,stale_prices | no_carbon_data
+JP3783600004,2004,no_carbon_data
+JP3786200000,2004,no_carbon_data
+JP3787000003,2004,insufficient_history(19mo) | no_carbon_data
+JP3788600009,2004,no_carbon_data
+JP3789000001,2004,no_carbon_data
+JP3791200003,2004,stale_prices | no_carbon_data
+JP3796150005,2004,no_carbon_data
+JP3799000009,2004,no_carbon_data
+JP3802300008,2004,no_carbon_data
+JP3802400006,2004,no_carbon_data
+JP3811000003,2004,no_carbon_data
+JP3814000000,2004,no_carbon_data
+JP3814800003,2004,no_carbon_data
+JP3818000006,2004,no_carbon_data
+JP3819400007,2004,no_carbon_data
+JP3820000002,2004,no_carbon_data
+JP3826800009,2004,no_carbon_data
+JP3827200001,2004,no_carbon_data
+JP3830000000,2004,no_carbon_data
+JP3830800003,2004,no_carbon_data
+JP3834800009,2004,no_carbon_data
+JP3835620000,2004,no_carbon_data
+JP3837800006,2004,no_carbon_data
+JP3841800000,2004,no_carbon_data
+JP3842400008,2004,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2004,no_carbon_data
+JP3854600008,2004,no_carbon_data
+JP3862400003,2004,no_carbon_data
+JP3863800003,2004,no_carbon_data
+JP3866800000,2004,no_carbon_data
+JP3868400007,2004,no_carbon_data
+JP3869010003,2004,stale_prices | no_carbon_data
+JP3870000001,2004,no_carbon_data
+JP3870400003,2004,no_carbon_data
+JP3877600001,2004,stale_prices | no_carbon_data
+JP3885400006,2004,no_carbon_data
+JP3885780001,2004,stale_prices | no_carbon_data
+JP3888300005,2004,no_carbon_data
+JP3888400003,2004,no_carbon_data
+JP3890310000,2004,no_carbon_data
+JP3890350006,2004,no_carbon_data
+JP3892100003,2004,insufficient_history(0mo) | stale_prices | no_carbon_data
+JP3893200000,2004,no_carbon_data
+JP3893600001,2004,no_carbon_data
+JP3894900004,2004,no_carbon_data
+JP3896800004,2004,no_carbon_data
+JP3899600005,2004,no_carbon_data
+JP3899800001,2004,insufficient_history(2mo) | no_carbon_data
+JP3900000005,2004,no_carbon_data
+JP3901200000,2004,stale_prices | no_carbon_data
+JP3902000003,2004,no_carbon_data
+JP3902400005,2004,no_carbon_data
+JP3902900004,2004,no_carbon_data
+JP3903000002,2004,no_carbon_data
+JP3906000009,2004,no_carbon_data
+JP3910660004,2004,insufficient_history(32mo) | no_carbon_data
+JP3919800007,2004,no_carbon_data
+JP3931600005,2004,no_carbon_data
+JP3933800009,2004,no_carbon_data
+JP3935600001,2004,no_carbon_data
+JP3939000000,2004,no_carbon_data
+JP3940000007,2004,no_carbon_data
+JP3940400009,2004,no_carbon_data
+JP3942400007,2004,no_carbon_data
+JP3942600002,2004,no_carbon_data
+JP3942800008,2004,no_carbon_data
+JP3944130008,2004,stale_prices | no_carbon_data
+JP3951200009,2004,stale_prices | no_carbon_data
+JP3951600000,2004,no_carbon_data
+JP3967200001,2004,stale_prices | no_carbon_data
+JP3973400009,2004,no_carbon_data
+JP3977400005,2004,no_carbon_data
+JP3982100004,2004,no_carbon_data
+JP3982800009,2004,no_carbon_data
+JP3992400006,2004,no_carbon_data
+KYG0535Q1331,2004,no_carbon_data
+KYG2108Y1052,2004,no_carbon_data
+KYG210961051,2004,insufficient_history(6mo) | no_carbon_data
+KYG217651051,2004,no_carbon_data
+KYG525621408,2004,no_carbon_data
+KYG5427W1309,2004,insufficient_history(15mo) | no_carbon_data
+KYG548561284,2004,insufficient_history(8mo) | no_carbon_data
+KYG9431R1039,2004,insufficient_history(0mo) | no_carbon_data
+MU0117U00026,2004,no_carbon_data
+NZAIAE0002S6,2004,no_carbon_data
+NZAIRE0001S2,2004,no_carbon_data
+NZCENE0001S6,2004,no_carbon_data
+NZFBUE0001S0,2004,no_carbon_data
+NZSKCE0001S2,2004,no_carbon_data
+NZTELE0001S4,2004,no_carbon_data
+SG0531000230,2004,no_carbon_data
+SG1B51001017,2004,no_carbon_data
+SG1F60858221,2004,no_carbon_data
+SGXE34184239,2004,no_carbon_data
+SG1J26887955,2004,no_carbon_data
+SG1L01001701,2004,no_carbon_data
+SG1M31001969,2004,no_carbon_data
+SG1M51904654,2004,insufficient_history(29mo) | no_carbon_data
+SG1M77906915,2004,insufficient_history(25mo) | no_carbon_data
+SG1N31909426,2004,insufficient_history(20mo) | no_carbon_data
+SG1P66918738,2004,no_carbon_data
+SG1R50925390,2004,no_carbon_data
+SG1R89002252,2004,no_carbon_data
+SG1S04926220,2004,no_carbon_data
+SG1S76928401,2004,no_carbon_data
+SG1S83002349,2004,no_carbon_data
+SG1T58930911,2004,no_carbon_data
+SG1T75931496,2004,no_carbon_data
+SG1U68934629,2004,no_carbon_data
+SG1V61937297,2004,no_carbon_data
+SG2B80958517,2004,no_carbon_data
+SG9999000020,2004,no_carbon_data
+SG9999003735,2004,no_carbon_data
+SGXE21576413,2004,no_carbon_data
+SGXE65760014,2004,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2004,insufficient_history(12mo) | no_carbon_data
+AU000000ABC7,2005,no_carbon_data
+AU000000ALL7,2005,no_carbon_data
+AU000000AMP6,2005,no_carbon_data
+AU000000ANN9,2005,no_carbon_data
+AU000000APA1,2005,no_carbon_data
+AU000000ASX7,2005,no_carbon_data
+AU000000BEN6,2005,no_carbon_data
+AU000000BOQ8,2005,no_carbon_data
+AU000000BPT9,2005,no_carbon_data
+AU000000BSL0,2005,no_carbon_data
+AU000000BWP3,2005,no_carbon_data
+AU000000CBA7,2005,no_carbon_data
+AU000000CGF5,2005,no_carbon_data
+AU000000CIM7,2005,no_carbon_data
+AU000000COH5,2005,no_carbon_data
+AU000000CPU5,2005,no_carbon_data
+AU000000CQR9,2005,no_carbon_data
+AU000000CSR5,2005,no_carbon_data
+AU000000CWY3,2005,insufficient_history(7mo) | no_carbon_data
+AU000000DOW2,2005,no_carbon_data
+AU000000DXS1,2005,no_carbon_data
+AU000000ELD6,2005,no_carbon_data
+AU000000ERA9,2005,no_carbon_data
+AU000000FLT9,2005,no_carbon_data
+AU000000GMG2,2005,no_carbon_data
+AU000000GWA4,2005,no_carbon_data
+AU000000HIL8,2005,no_carbon_data
+AU000000HVN7,2005,no_carbon_data
+AU000000IAG3,2005,no_carbon_data
+AU000000IFL2,2005,insufficient_history(24mo) | no_carbon_data
+AU000000IGO4,2005,no_carbon_data
+AU000000ILU1,2005,no_carbon_data
+AU000000IRE2,2005,no_carbon_data
+AU000000IVC8,2005,insufficient_history(24mo) | no_carbon_data
+AU000000JBH7,2005,insufficient_history(26mo) | no_carbon_data
+AU000000LLC3,2005,no_carbon_data
+AU000000MAH3,2005,no_carbon_data
+AU000000MGX7,2005,stale_prices | no_carbon_data
+AU000000MND5,2005,no_carbon_data
+AU000000MQG1,2005,no_carbon_data
+AU000000MTS0,2005,no_carbon_data
+AU000000NAB4,2005,no_carbon_data
+AU000000NCM7,2005,no_carbon_data
+AU000000ORG5,2005,no_carbon_data
+AU000000OZL8,2005,no_carbon_data
+AU000000PPT9,2005,no_carbon_data
+AU000000QAN2,2005,no_carbon_data
+AU000000QBE9,2005,no_carbon_data
+AU000000RHC8,2005,stale_prices | no_carbon_data
+AU000000SBM8,2005,no_carbon_data
+AU000000SDG6,2005,no_carbon_data
+AU000000SEK6,2005,insufficient_history(8mo) | no_carbon_data
+AU000000SGM7,2005,no_carbon_data
+AU000000SGP0,2005,no_carbon_data
+AU000000SHL7,2005,no_carbon_data
+AU000000SIG5,2005,no_carbon_data
+AU000000STO6,2005,no_carbon_data
+AU000000SUN6,2005,no_carbon_data
+AU000000SWM4,2005,no_carbon_data
+AU000000SXL4,2005,insufficient_history(0mo) | no_carbon_data
+AU000000TAH8,2005,no_carbon_data
+AU000000TCL6,2005,no_carbon_data
+AU000000WBC1,2005,no_carbon_data
+AU000000WES1,2005,no_carbon_data
+AU000000WOR2,2005,no_carbon_data
+AU000000WOW2,2005,no_carbon_data
+AU0000032187,2005,no_carbon_data
+AU0000033359,2005,no_carbon_data
+AU0000038911,2005,no_carbon_data
+AU0000224040,2005,no_carbon_data
+BMG2108M2182,2005,no_carbon_data
+BMG2178K1009,2005,no_carbon_data
+BMG2442N1048,2005,no_carbon_data
+BMG2624N1535,2005,no_carbon_data
+BMG4600H1198,2005,no_carbon_data
+BMG4639H1227,2005,stale_prices | no_carbon_data
+BMG507361001,2005,no_carbon_data
+BMG524401079,2005,no_carbon_data
+BMG5320C1082,2005,no_carbon_data
+BMG668971101,2005,no_carbon_data
+BMG677491539,2005,no_carbon_data
+BMG684371393,2005,insufficient_history(17mo) | no_carbon_data
+BMG8063F1068,2005,no_carbon_data
+BMG8403G1033,2005,no_carbon_data
+BMG988031446,2005,no_carbon_data
+HK0000049939,2005,no_carbon_data
+HK0000055878,2005,no_carbon_data
+HK0000139300,2005,no_carbon_data
+HK0000592854,2005,no_carbon_data
+HK0000608585,2005,no_carbon_data
+HK0000745908,2005,no_carbon_data
+HK0002007356,2005,no_carbon_data
+HK0003000038,2005,no_carbon_data
+HK0004000045,2005,no_carbon_data
+HK0008011667,2005,no_carbon_data
+HK0010000088,2005,no_carbon_data
+HK0011000095,2005,no_carbon_data
+HK0012000102,2005,no_carbon_data
+HK0014000126,2005,no_carbon_data
+HK0016000132,2005,no_carbon_data
+HK0019000162,2005,no_carbon_data
+HK0023000190,2005,no_carbon_data
+HK0083000502,2005,no_carbon_data
+HK0101000591,2005,no_carbon_data
+HK0144000764,2005,no_carbon_data
+HK0165000859,2005,no_carbon_data
+HK0200030994,2005,no_carbon_data
+HK0242001243,2005,no_carbon_data
+HK0270001396,2005,no_carbon_data
+HK0291001490,2005,no_carbon_data
+HK0308001558,2005,no_carbon_data
+HK0363006039,2005,no_carbon_data
+HK0388045442,2005,no_carbon_data
+HK0392044647,2005,no_carbon_data
+HK0440001847,2005,no_carbon_data
+HK0688002218,2005,no_carbon_data
+HK0823032773,2005,insufficient_history(1mo) | no_carbon_data
+HK0836012952,2005,insufficient_history(25mo) | no_carbon_data
+HK2380027329,2005,insufficient_history(14mo) | no_carbon_data
+HK2388011192,2005,no_carbon_data
+IE00BKVD2N49,2005,no_carbon_data
+JP3027670003,2005,no_carbon_data
+JP3027680002,2005,no_carbon_data
+JP3039710003,2005,no_carbon_data
+JP3040890000,2005,no_carbon_data
+JP3102000001,2005,no_carbon_data
+JP3108600002,2005,no_carbon_data
+JP3111200006,2005,no_carbon_data
+JP3112000009,2005,no_carbon_data
+JP3116000005,2005,no_carbon_data
+JP3118000003,2005,insufficient_history(30mo) | no_carbon_data
+JP3119600009,2005,no_carbon_data
+JP3122400009,2005,no_carbon_data
+JP3122800000,2005,no_carbon_data
+JP3125800007,2005,no_carbon_data
+JP3126340003,2005,no_carbon_data
+JP3126400005,2005,no_carbon_data
+JP3131400008,2005,no_carbon_data
+JP3131430005,2005,no_carbon_data
+JP3134800006,2005,no_carbon_data
+JP3137200006,2005,no_carbon_data
+JP3143000002,2005,no_carbon_data
+JP3143600009,2005,no_carbon_data
+JP3143900003,2005,stale_prices | no_carbon_data
+JP3148800000,2005,no_carbon_data
+JP3152740001,2005,no_carbon_data
+JP3156400008,2005,no_carbon_data
+JP3158800007,2005,no_carbon_data
+JP3160400002,2005,no_carbon_data
+JP3162600005,2005,no_carbon_data
+JP3164630000,2005,no_carbon_data
+JP3164720009,2005,insufficient_history(29mo) | stale_prices
+JP3164800009,2005,no_carbon_data
+JP3165700000,2005,no_carbon_data
+JP3166000004,2005,no_carbon_data
+JP3167500002,2005,insufficient_history(2mo) | no_carbon_data
+JP3172100004,2005,no_carbon_data
+JP3173400007,2005,no_carbon_data
+JP3180400008,2005,no_carbon_data
+JP3188220002,2005,insufficient_history(0mo) | no_carbon_data
+JP3190000004,2005,no_carbon_data
+JP3196000008,2005,no_carbon_data
+JP3197600004,2005,no_carbon_data
+JP3198900007,2005,no_carbon_data
+JP3200450009,2005,no_carbon_data
+JP3201200007,2005,no_carbon_data
+JP3203500008,2005,no_carbon_data
+JP3205800000,2005,no_carbon_data
+JP3209000003,2005,no_carbon_data
+JP3210200006,2005,no_carbon_data
+JP3218900003,2005,stale_prices | no_carbon_data
+JP3219000001,2005,no_carbon_data
+JP3224200000,2005,stale_prices
+JP3228600007,2005,no_carbon_data
+JP3229400001,2005,no_carbon_data
+JP3236200006,2005,no_carbon_data
+JP3240400006,2005,no_carbon_data
+JP3243600008,2005,no_carbon_data
+JP3249600002,2005,no_carbon_data
+JP3256000005,2005,no_carbon_data
+JP3258000003,2005,no_carbon_data
+JP3260800002,2005,no_carbon_data
+JP3263000006,2005,no_carbon_data
+JP3268950007,2005,no_carbon_data
+JP3271400008,2005,no_carbon_data
+JP3274400005,2005,insufficient_history(29mo) | no_carbon_data
+JP3276400003,2005,no_carbon_data
+JP3277800003,2005,no_carbon_data
+JP3278600006,2005,no_carbon_data
+JP3280200001,2005,no_carbon_data
+JP3283650004,2005,no_carbon_data
+JP3289800009,2005,no_carbon_data
+JP3292200007,2005,no_carbon_data
+JP3293200006,2005,no_carbon_data
+JP3294460005,2005,insufficient_history(13mo) | stale_prices | no_carbon_data
+JP3300200007,2005,no_carbon_data
+JP3300600008,2005,no_carbon_data
+JP3304200003,2005,no_carbon_data
+JP3305530002,2005,no_carbon_data
+JP3305800009,2005,no_carbon_data
+JP3305990008,2005,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2005,no_carbon_data
+JP3322930003,2005,insufficient_history(1mo) | no_carbon_data
+JP3326410002,2005,no_carbon_data
+JP3336000009,2005,no_carbon_data
+JP3336600006,2005,no_carbon_data
+JP3347200002,2005,no_carbon_data
+JP3350800003,2005,no_carbon_data
+JP3351100007,2005,stale_prices | no_carbon_data
+JP3351500008,2005,no_carbon_data
+JP3351600006,2005,no_carbon_data
+JP3352000008,2005,no_carbon_data
+JP3352400000,2005,no_carbon_data
+JP3357200009,2005,no_carbon_data
+JP3358000002,2005,no_carbon_data
+JP3358200008,2005,no_carbon_data
+JP3358800005,2005,no_carbon_data
+JP3359600008,2005,no_carbon_data
+JP3362700001,2005,no_carbon_data
+JP3368000000,2005,no_carbon_data
+JP3371200001,2005,no_carbon_data
+JP3375800004,2005,no_carbon_data
+JP3381000003,2005,no_carbon_data
+JP3385820000,2005,no_carbon_data
+JP3385980002,2005,no_carbon_data
+JP3386030005,2005,no_carbon_data
+JP3388200002,2005,no_carbon_data
+JP3389900006,2005,no_carbon_data
+JP3396350005,2005,stale_prices | no_carbon_data
+JP3397200001,2005,no_carbon_data
+JP3398000004,2005,stale_prices | no_carbon_data
+JP3399400005,2005,no_carbon_data
+JP3400900001,2005,no_carbon_data
+JP3402600005,2005,no_carbon_data
+JP3404200002,2005,no_carbon_data
+JP3404600003,2005,no_carbon_data
+JP3405400007,2005,no_carbon_data
+JP3407200009,2005,no_carbon_data
+JP3407400005,2005,no_carbon_data
+JP3409000001,2005,no_carbon_data
+JP3411000007,2005,no_carbon_data
+JP3414750004,2005,insufficient_history(30mo) | no_carbon_data
+JP3415400005,2005,no_carbon_data
+JP3419050004,2005,no_carbon_data
+JP3419400001,2005,no_carbon_data
+JP3420600003,2005,no_carbon_data
+JP3421100003,2005,insufficient_history(24mo) | no_carbon_data
+JP3421800008,2005,no_carbon_data
+JP3425000001,2005,no_carbon_data
+JP3436100006,2005,no_carbon_data
+JP3436120004,2005,stale_prices | no_carbon_data
+JP3452000007,2005,no_carbon_data
+JP3456000003,2005,no_carbon_data
+JP3459600007,2005,no_carbon_data
+JP3463000004,2005,no_carbon_data
+JP3475350009,2005,no_carbon_data
+JP3481800005,2005,no_carbon_data
+JP3485800001,2005,no_carbon_data
+JP3486800000,2005,stale_prices | no_carbon_data
+JP3491000000,2005,no_carbon_data
+JP3494600004,2005,no_carbon_data
+JP3495000006,2005,no_carbon_data
+JP3496400007,2005,no_carbon_data
+JP3499800005,2005,no_carbon_data
+JP3500610005,2005,stale_prices | no_carbon_data
+JP3502200003,2005,no_carbon_data
+JP3505000004,2005,no_carbon_data
+JP3511800009,2005,no_carbon_data
+JP3519400000,2005,no_carbon_data
+JP3528600004,2005,no_carbon_data
+JP3535800001,2005,stale_prices | no_carbon_data
+JP3538800008,2005,no_carbon_data
+JP3539220008,2005,insufficient_history(20mo) | no_carbon_data
+JP3539250005,2005,stale_prices | no_carbon_data
+JP3546800008,2005,no_carbon_data
+JP3548610009,2005,insufficient_history(10mo) | no_carbon_data
+JP3549600009,2005,no_carbon_data
+JP3551200003,2005,insufficient_history(14mo) | no_carbon_data
+JP3551500006,2005,no_carbon_data
+JP3551520004,2005,no_carbon_data
+JP3560800009,2005,no_carbon_data
+JP3566800003,2005,no_carbon_data
+JP3571400005,2005,no_carbon_data
+JP3574200006,2005,no_carbon_data
+JP3579800008,2005,no_carbon_data
+JP3582600007,2005,no_carbon_data
+JP3585800000,2005,no_carbon_data
+JP3588600001,2005,no_carbon_data
+JP3592200004,2005,no_carbon_data
+JP3595200001,2005,no_carbon_data
+JP3596200000,2005,no_carbon_data
+JP3597800006,2005,no_carbon_data
+JP3598600009,2005,no_carbon_data
+JP3599000001,2005,no_carbon_data
+JP3600200004,2005,no_carbon_data
+JP3613000003,2005,no_carbon_data
+JP3613400005,2005,no_carbon_data
+JP3619800000,2005,no_carbon_data
+JP3621000003,2005,no_carbon_data
+JP3625000009,2005,no_carbon_data
+JP3626800001,2005,no_carbon_data
+JP3629000005,2005,no_carbon_data
+JP3633400001,2005,no_carbon_data
+JP3635000007,2005,no_carbon_data
+JP3635400009,2005,no_carbon_data
+JP3637300009,2005,no_carbon_data
+JP3638600001,2005,no_carbon_data
+JP3657400002,2005,no_carbon_data
+JP3658850007,2005,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2005,no_carbon_data
+JP3663900003,2005,insufficient_history(32mo) | no_carbon_data
+JP3665200006,2005,no_carbon_data
+JP3667600005,2005,no_carbon_data
+JP3670800006,2005,no_carbon_data
+JP3672400003,2005,no_carbon_data
+JP3675600005,2005,no_carbon_data
+JP3676800000,2005,no_carbon_data
+JP3678000005,2005,no_carbon_data
+JP3684000007,2005,no_carbon_data
+JP3684400009,2005,no_carbon_data
+JP3686800008,2005,no_carbon_data
+JP3688370000,2005,no_carbon_data
+JP3689500001,2005,no_carbon_data
+JP3695200000,2005,stale_prices | no_carbon_data
+JP3711200000,2005,insufficient_history(0mo) | stale_prices | no_carbon_data
+JP3711600001,2005,no_carbon_data
+JP3718800000,2005,no_carbon_data
+JP3721400004,2005,no_carbon_data
+JP3726200003,2005,no_carbon_data
+JP3726800000,2005,no_carbon_data
+JP3729000004,2005,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2005,no_carbon_data
+JP3733000008,2005,no_carbon_data
+JP3733400000,2005,no_carbon_data
+JP3734800000,2005,no_carbon_data
+JP3735400008,2005,stale_prices
+JP3738600000,2005,no_carbon_data
+JP3742600004,2005,no_carbon_data
+JP3743000006,2005,no_carbon_data
+JP3753000003,2005,no_carbon_data
+JP3756100008,2005,no_carbon_data
+JP3756600007,2005,no_carbon_data
+JP3762600009,2005,no_carbon_data
+JP3762800005,2005,no_carbon_data
+JP3765400001,2005,no_carbon_data
+JP3766550002,2005,insufficient_history(10mo) | stale_prices | no_carbon_data
+JP3768600003,2005,insufficient_history(21mo) | stale_prices | no_carbon_data
+JP3769000005,2005,stale_prices
+JP3771800004,2005,no_carbon_data
+JP3774200004,2005,no_carbon_data
+JP3778630008,2005,no_carbon_data
+JP3780100008,2005,no_carbon_data
+JP3783420007,2005,stale_prices | no_carbon_data
+JP3783600004,2005,no_carbon_data
+JP3787000003,2005,insufficient_history(31mo) | no_carbon_data
+JP3789000001,2005,no_carbon_data
+JP3791200003,2005,stale_prices | no_carbon_data
+JP3792600003,2005,no_carbon_data
+JP3796150005,2005,no_carbon_data
+JP3799000009,2005,no_carbon_data
+JP3802300008,2005,no_carbon_data
+JP3802400006,2005,no_carbon_data
+JP3811000003,2005,no_carbon_data
+JP3814000000,2005,no_carbon_data
+JP3814800003,2005,no_carbon_data
+JP3818000006,2005,no_carbon_data
+JP3819400007,2005,no_carbon_data
+JP3826800009,2005,no_carbon_data
+JP3827200001,2005,no_carbon_data
+JP3830000000,2005,no_carbon_data
+JP3830800003,2005,no_carbon_data
+JP3834800009,2005,no_carbon_data
+JP3835620000,2005,no_carbon_data
+JP3837800006,2005,no_carbon_data
+JP3841800000,2005,no_carbon_data
+JP3842400008,2005,insufficient_history(0mo) | no_carbon_data
+JP3854600008,2005,no_carbon_data
+JP3862400003,2005,no_carbon_data
+JP3863800003,2005,no_carbon_data
+JP3866800000,2005,no_carbon_data
+JP3868400007,2005,no_carbon_data
+JP3869010003,2005,stale_prices | no_carbon_data
+JP3870000001,2005,no_carbon_data
+JP3870400003,2005,no_carbon_data
+JP3877600001,2005,stale_prices | no_carbon_data
+JP3885400006,2005,no_carbon_data
+JP3885780001,2005,stale_prices | no_carbon_data
+JP3888300005,2005,no_carbon_data
+JP3888400003,2005,no_carbon_data
+JP3890310000,2005,no_carbon_data
+JP3892100003,2005,insufficient_history(3mo) | stale_prices | no_carbon_data
+JP3893200000,2005,no_carbon_data
+JP3893600001,2005,no_carbon_data
+JP3894900004,2005,no_carbon_data
+JP3896800004,2005,no_carbon_data
+JP3899600005,2005,no_carbon_data
+JP3899800001,2005,insufficient_history(2mo) | no_carbon_data
+JP3900000005,2005,no_carbon_data
+JP3901200000,2005,stale_prices | no_carbon_data
+JP3902000003,2005,no_carbon_data
+JP3902400005,2005,no_carbon_data
+JP3902900004,2005,no_carbon_data
+JP3903000002,2005,no_carbon_data
+JP3906000009,2005,no_carbon_data
+JP3910660004,2005,no_carbon_data
+JP3919800007,2005,no_carbon_data
+JP3931600005,2005,no_carbon_data
+JP3933800009,2005,no_carbon_data
+JP3935600001,2005,no_carbon_data
+JP3939000000,2005,no_carbon_data
+JP3940000007,2005,no_carbon_data
+JP3940400009,2005,no_carbon_data
+JP3942400007,2005,no_carbon_data
+JP3942600002,2005,no_carbon_data
+JP3942800008,2005,no_carbon_data
+JP3944130008,2005,stale_prices | no_carbon_data
+JP3951200009,2005,stale_prices | no_carbon_data
+JP3951600000,2005,no_carbon_data
+JP3967200001,2005,stale_prices | no_carbon_data
+JP3973400009,2005,no_carbon_data
+JP3977400005,2005,no_carbon_data
+JP3982100004,2005,no_carbon_data
+JP3982800009,2005,no_carbon_data
+JP3992400006,2005,no_carbon_data
+KYG0535Q1331,2005,no_carbon_data
+KYG2108Y1052,2005,no_carbon_data
+KYG210961051,2005,insufficient_history(18mo) | no_carbon_data
+KYG217651051,2005,no_carbon_data
+KYG525621408,2005,no_carbon_data
+KYG5427W1309,2005,insufficient_history(27mo) | no_carbon_data
+KYG548561284,2005,insufficient_history(20mo) | no_carbon_data
+KYG9431R1039,2005,insufficient_history(0mo) | no_carbon_data
+MU0117U00026,2005,no_carbon_data
+NZAIAE0002S6,2005,no_carbon_data
+NZAIRE0001S2,2005,no_carbon_data
+NZCENE0001S6,2005,no_carbon_data
+NZSKCE0001S2,2005,no_carbon_data
+NZTELE0001S4,2005,no_carbon_data
+SG0531000230,2005,no_carbon_data
+SG1B51001017,2005,no_carbon_data
+SG1F60858221,2005,no_carbon_data
+SGXE34184239,2005,no_carbon_data
+SG1J26887955,2005,no_carbon_data
+SG1L01001701,2005,no_carbon_data
+SG1M31001969,2005,no_carbon_data
+SG1M51904654,2005,no_carbon_data
+SG1M77906915,2005,no_carbon_data
+SG1N31909426,2005,insufficient_history(32mo) | no_carbon_data
+SG1P66918738,2005,no_carbon_data
+SG1R50925390,2005,no_carbon_data
+SG1S04926220,2005,no_carbon_data
+SG1S76928401,2005,no_carbon_data
+SG1S83002349,2005,no_carbon_data
+SG1T58930911,2005,no_carbon_data
+SG1T75931496,2005,no_carbon_data
+SG1U68934629,2005,no_carbon_data
+SG1V61937297,2005,no_carbon_data
+SG2B80958517,2005,no_carbon_data
+SG9999000020,2005,no_carbon_data
+SG9999003735,2005,no_carbon_data
+SGXE21576413,2005,no_carbon_data
+SGXE65760014,2005,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2005,insufficient_history(24mo) | no_carbon_data
+AU000000ABC7,2006,no_carbon_data
+AU000000ALL7,2006,no_carbon_data
+AU000000AMP6,2006,no_carbon_data
+AU000000ANN9,2006,no_carbon_data
+AU000000APA1,2006,no_carbon_data
+AU000000ASX7,2006,no_carbon_data
+AU000000BEN6,2006,no_carbon_data
+AU000000BOQ8,2006,no_carbon_data
+AU000000BPT9,2006,no_carbon_data
+AU000000BSL0,2006,no_carbon_data
+AU000000BWP3,2006,no_carbon_data
+AU000000CBA7,2006,no_carbon_data
+AU000000CGF5,2006,no_carbon_data
+AU000000COH5,2006,no_carbon_data
+AU000000CPU5,2006,no_carbon_data
+AU000000CQR9,2006,no_carbon_data
+AU000000CSR5,2006,no_carbon_data
+AU000000CWY3,2006,insufficient_history(19mo) | no_carbon_data
+AU000000DOW2,2006,no_carbon_data
+AU000000DXS1,2006,no_carbon_data
+AU000000ELD6,2006,no_carbon_data
+AU000000ERA9,2006,no_carbon_data
+AU000000FLT9,2006,no_carbon_data
+AU000000GMG2,2006,no_carbon_data
+AU000000GWA4,2006,no_carbon_data
+AU000000HIL8,2006,no_carbon_data
+AU000000HVN7,2006,no_carbon_data
+AU000000IFL2,2006,no_carbon_data
+AU000000IGO4,2006,no_carbon_data
+AU000000ILU1,2006,no_carbon_data
+AU000000IRE2,2006,no_carbon_data
+AU000000IVC8,2006,no_carbon_data
+AU000000JBH7,2006,no_carbon_data
+AU000000LLC3,2006,no_carbon_data
+AU000000MAH3,2006,no_carbon_data
+AU000000MGX7,2006,stale_prices | no_carbon_data
+AU000000MND5,2006,no_carbon_data
+AU000000MQG1,2006,no_carbon_data
+AU000000MTS0,2006,no_carbon_data
+AU000000NCM7,2006,no_carbon_data
+AU000000ORG5,2006,no_carbon_data
+AU000000OZL8,2006,no_carbon_data
+AU000000PPT9,2006,no_carbon_data
+AU000000QBE9,2006,no_carbon_data
+AU000000RHC8,2006,stale_prices | no_carbon_data
+AU000000SBM8,2006,no_carbon_data
+AU000000SDG6,2006,no_carbon_data
+AU000000SEK6,2006,insufficient_history(20mo) | no_carbon_data
+AU000000SGM7,2006,no_carbon_data
+AU000000SHL7,2006,no_carbon_data
+AU000000SIG5,2006,no_carbon_data
+AU000000SUN6,2006,no_carbon_data
+AU000000SWM4,2006,no_carbon_data
+AU000000SXL4,2006,insufficient_history(1mo) | no_carbon_data
+AU000000TAH8,2006,no_carbon_data
+AU000000TCL6,2006,no_carbon_data
+AU000000WBC1,2006,no_carbon_data
+AU000000WES1,2006,no_carbon_data
+AU000000WOR2,2006,no_carbon_data
+AU0000032187,2006,no_carbon_data
+AU0000033359,2006,no_carbon_data
+AU0000038911,2006,no_carbon_data
+AU0000088338,2006,no_carbon_data
+AU0000224040,2006,no_carbon_data
+BMG2108M2182,2006,no_carbon_data
+BMG2178K1009,2006,no_carbon_data
+BMG2442N1048,2006,no_carbon_data
+BMG2624N1535,2006,no_carbon_data
+BMG4600H1198,2006,no_carbon_data
+BMG4639H1227,2006,stale_prices | no_carbon_data
+BMG507361001,2006,no_carbon_data
+BMG524401079,2006,no_carbon_data
+BMG5320C1082,2006,no_carbon_data
+BMG668971101,2006,no_carbon_data
+BMG677491539,2006,no_carbon_data
+BMG684371393,2006,insufficient_history(29mo) | no_carbon_data
+BMG8063F1068,2006,no_carbon_data
+BMG8403G1033,2006,no_carbon_data
+BMG988031446,2006,no_carbon_data
+HK0000049939,2006,no_carbon_data
+HK0000055878,2006,no_carbon_data
+HK0000139300,2006,no_carbon_data
+HK0000592854,2006,no_carbon_data
+HK0000608585,2006,no_carbon_data
+HK0000745908,2006,no_carbon_data
+HK0002007356,2006,no_carbon_data
+HK0003000038,2006,no_carbon_data
+HK0004000045,2006,no_carbon_data
+HK0008011667,2006,no_carbon_data
+HK0010000088,2006,no_carbon_data
+HK0011000095,2006,no_carbon_data
+HK0012000102,2006,no_carbon_data
+HK0014000126,2006,no_carbon_data
+HK0016000132,2006,no_carbon_data
+HK0023000190,2006,no_carbon_data
+HK0083000502,2006,no_carbon_data
+HK0101000591,2006,no_carbon_data
+HK0144000764,2006,no_carbon_data
+HK0165000859,2006,no_carbon_data
+HK0200030994,2006,no_carbon_data
+HK0242001243,2006,no_carbon_data
+HK0270001396,2006,no_carbon_data
+HK0291001490,2006,no_carbon_data
+HK0308001558,2006,no_carbon_data
+HK0363006039,2006,no_carbon_data
+HK0388045442,2006,no_carbon_data
+HK0392044647,2006,no_carbon_data
+HK0440001847,2006,no_carbon_data
+HK0688002218,2006,no_carbon_data
+HK0823032773,2006,insufficient_history(13mo) | no_carbon_data
+HK0836012952,2006,no_carbon_data
+HK2380027329,2006,insufficient_history(26mo) | no_carbon_data
+HK2388011192,2006,no_carbon_data
+IE00BKVD2N49,2006,no_carbon_data
+JP3027670003,2006,no_carbon_data
+JP3027680002,2006,no_carbon_data
+JP3039710003,2006,no_carbon_data
+JP3040890000,2006,no_carbon_data
+JP3102000001,2006,no_carbon_data
+JP3108600002,2006,no_carbon_data
+JP3111200006,2006,no_carbon_data
+JP3112000009,2006,no_carbon_data
+JP3116000005,2006,no_carbon_data
+JP3118000003,2006,no_carbon_data
+JP3119600009,2006,no_carbon_data
+JP3122400009,2006,no_carbon_data
+JP3122800000,2006,no_carbon_data
+JP3125800007,2006,no_carbon_data
+JP3126340003,2006,no_carbon_data
+JP3126400005,2006,no_carbon_data
+JP3131400008,2006,no_carbon_data
+JP3131430005,2006,no_carbon_data
+JP3134800006,2006,no_carbon_data
+JP3137200006,2006,no_carbon_data
+JP3143000002,2006,no_carbon_data
+JP3143600009,2006,no_carbon_data
+JP3143900003,2006,stale_prices | no_carbon_data
+JP3148800000,2006,no_carbon_data
+JP3152740001,2006,no_carbon_data
+JP3156400008,2006,no_carbon_data
+JP3160400002,2006,no_carbon_data
+JP3162600005,2006,no_carbon_data
+JP3164630000,2006,no_carbon_data
+JP3164720009,2006,stale_prices
+JP3164800009,2006,no_carbon_data
+JP3165700000,2006,no_carbon_data
+JP3166000004,2006,no_carbon_data
+JP3167500002,2006,insufficient_history(14mo) | no_carbon_data
+JP3172100004,2006,no_carbon_data
+JP3173400007,2006,no_carbon_data
+JP3180400008,2006,no_carbon_data
+JP3188220002,2006,insufficient_history(0mo) | no_carbon_data
+JP3196000008,2006,no_carbon_data
+JP3197600004,2006,no_carbon_data
+JP3197800000,2006,no_carbon_data
+JP3198900007,2006,no_carbon_data
+JP3200450009,2006,no_carbon_data
+JP3201200007,2006,no_carbon_data
+JP3203500008,2006,no_carbon_data
+JP3205800000,2006,no_carbon_data
+JP3209000003,2006,no_carbon_data
+JP3218900003,2006,stale_prices | no_carbon_data
+JP3219000001,2006,no_carbon_data
+JP3224200000,2006,stale_prices
+JP3228600007,2006,no_carbon_data
+JP3229400001,2006,no_carbon_data
+JP3236200006,2006,no_carbon_data
+JP3240400006,2006,no_carbon_data
+JP3243600008,2006,no_carbon_data
+JP3249600002,2006,no_carbon_data
+JP3256000005,2006,no_carbon_data
+JP3258000003,2006,no_carbon_data
+JP3260800002,2006,no_carbon_data
+JP3263000006,2006,no_carbon_data
+JP3268950007,2006,no_carbon_data
+JP3271400008,2006,no_carbon_data
+JP3274400005,2006,no_carbon_data
+JP3276400003,2006,no_carbon_data
+JP3277800003,2006,no_carbon_data
+JP3278600006,2006,no_carbon_data
+JP3280200001,2006,no_carbon_data
+JP3283650004,2006,no_carbon_data
+JP3289800009,2006,no_carbon_data
+JP3292200007,2006,no_carbon_data
+JP3293200006,2006,no_carbon_data
+JP3294460005,2006,insufficient_history(25mo) | stale_prices | no_carbon_data
+JP3300200007,2006,no_carbon_data
+JP3305530002,2006,no_carbon_data
+JP3305800009,2006,no_carbon_data
+JP3305990008,2006,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2006,no_carbon_data
+JP3322930003,2006,insufficient_history(13mo) | no_carbon_data
+JP3326410002,2006,no_carbon_data
+JP3336000009,2006,no_carbon_data
+JP3336600006,2006,no_carbon_data
+JP3347200002,2006,no_carbon_data
+JP3350800003,2006,no_carbon_data
+JP3351100007,2006,stale_prices | no_carbon_data
+JP3351500008,2006,no_carbon_data
+JP3351600006,2006,no_carbon_data
+JP3352000008,2006,no_carbon_data
+JP3352400000,2006,no_carbon_data
+JP3357200009,2006,no_carbon_data
+JP3358000002,2006,no_carbon_data
+JP3358200008,2006,no_carbon_data
+JP3358800005,2006,no_carbon_data
+JP3359600008,2006,no_carbon_data
+JP3362700001,2006,no_carbon_data
+JP3368000000,2006,no_carbon_data
+JP3371200001,2006,no_carbon_data
+JP3375800004,2006,no_carbon_data
+JP3381000003,2006,no_carbon_data
+JP3385820000,2006,no_carbon_data
+JP3385980002,2006,no_carbon_data
+JP3386030005,2006,no_carbon_data
+JP3389900006,2006,no_carbon_data
+JP3396350005,2006,stale_prices | no_carbon_data
+JP3397200001,2006,no_carbon_data
+JP3398000004,2006,stale_prices | no_carbon_data
+JP3399400005,2006,no_carbon_data
+JP3400900001,2006,no_carbon_data
+JP3402600005,2006,no_carbon_data
+JP3404200002,2006,no_carbon_data
+JP3404600003,2006,no_carbon_data
+JP3405400007,2006,no_carbon_data
+JP3407200009,2006,no_carbon_data
+JP3407400005,2006,no_carbon_data
+JP3409000001,2006,no_carbon_data
+JP3411000007,2006,no_carbon_data
+JP3414750004,2006,no_carbon_data
+JP3415400005,2006,no_carbon_data
+JP3419050004,2006,no_carbon_data
+JP3419400001,2006,no_carbon_data
+JP3420600003,2006,no_carbon_data
+JP3421100003,2006,no_carbon_data
+JP3421800008,2006,no_carbon_data
+JP3425000001,2006,no_carbon_data
+JP3436100006,2006,no_carbon_data
+JP3436120004,2006,stale_prices | no_carbon_data
+JP3443600006,2006,no_carbon_data
+JP3452000007,2006,no_carbon_data
+JP3456000003,2006,no_carbon_data
+JP3459600007,2006,no_carbon_data
+JP3463000004,2006,no_carbon_data
+JP3475350009,2006,no_carbon_data
+JP3481800005,2006,no_carbon_data
+JP3485800001,2006,no_carbon_data
+JP3486800000,2006,stale_prices | no_carbon_data
+JP3491000000,2006,no_carbon_data
+JP3494600004,2006,no_carbon_data
+JP3495000006,2006,no_carbon_data
+JP3496400007,2006,no_carbon_data
+JP3499800005,2006,no_carbon_data
+JP3500610005,2006,stale_prices | no_carbon_data
+JP3502200003,2006,no_carbon_data
+JP3505000004,2006,no_carbon_data
+JP3511800009,2006,no_carbon_data
+JP3519400000,2006,no_carbon_data
+JP3528600004,2006,no_carbon_data
+JP3535800001,2006,stale_prices | no_carbon_data
+JP3538800008,2006,no_carbon_data
+JP3539220008,2006,insufficient_history(32mo)
+JP3539250005,2006,stale_prices | no_carbon_data
+JP3546800008,2006,no_carbon_data
+JP3548610009,2006,insufficient_history(22mo) | no_carbon_data
+JP3549600009,2006,no_carbon_data
+JP3551200003,2006,insufficient_history(26mo) | no_carbon_data
+JP3551500006,2006,no_carbon_data
+JP3551520004,2006,no_carbon_data
+JP3560800009,2006,no_carbon_data
+JP3566800003,2006,no_carbon_data
+JP3571400005,2006,no_carbon_data
+JP3574200006,2006,no_carbon_data
+JP3579800008,2006,no_carbon_data
+JP3582600007,2006,no_carbon_data
+JP3585800000,2006,no_carbon_data
+JP3588600001,2006,no_carbon_data
+JP3595200001,2006,no_carbon_data
+JP3596200000,2006,no_carbon_data
+JP3597800006,2006,no_carbon_data
+JP3598600009,2006,no_carbon_data
+JP3599000001,2006,no_carbon_data
+JP3600200004,2006,no_carbon_data
+JP3613000003,2006,no_carbon_data
+JP3619800000,2006,no_carbon_data
+JP3621000003,2006,no_carbon_data
+JP3625000009,2006,no_carbon_data
+JP3626800001,2006,no_carbon_data
+JP3629000005,2006,no_carbon_data
+JP3633400001,2006,no_carbon_data
+JP3635000007,2006,no_carbon_data
+JP3637300009,2006,no_carbon_data
+JP3638600001,2006,no_carbon_data
+JP3657400002,2006,no_carbon_data
+JP3658850007,2006,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2006,no_carbon_data
+JP3663900003,2006,no_carbon_data
+JP3665200006,2006,no_carbon_data
+JP3667600005,2006,no_carbon_data
+JP3670800006,2006,no_carbon_data
+JP3672400003,2006,no_carbon_data
+JP3675600005,2006,no_carbon_data
+JP3676800000,2006,no_carbon_data
+JP3678000005,2006,no_carbon_data
+JP3684000007,2006,no_carbon_data
+JP3684400009,2006,no_carbon_data
+JP3686800008,2006,no_carbon_data
+JP3688370000,2006,no_carbon_data
+JP3689500001,2006,no_carbon_data
+JP3695200000,2006,stale_prices | no_carbon_data
+JP3711200000,2006,insufficient_history(1mo) | stale_prices | no_carbon_data
+JP3718800000,2006,no_carbon_data
+JP3721400004,2006,no_carbon_data
+JP3726200003,2006,no_carbon_data
+JP3726800000,2006,no_carbon_data
+JP3729000004,2006,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2006,no_carbon_data
+JP3733400000,2006,no_carbon_data
+JP3734800000,2006,no_carbon_data
+JP3735400008,2006,stale_prices
+JP3738600000,2006,no_carbon_data
+JP3742600004,2006,no_carbon_data
+JP3743000006,2006,no_carbon_data
+JP3753000003,2006,no_carbon_data
+JP3756100008,2006,no_carbon_data
+JP3756600007,2006,no_carbon_data
+JP3762600009,2006,no_carbon_data
+JP3762800005,2006,no_carbon_data
+JP3765400001,2006,no_carbon_data
+JP3766550002,2006,insufficient_history(22mo) | stale_prices | no_carbon_data
+JP3768600003,2006,insufficient_history(33mo) | stale_prices | no_carbon_data
+JP3769000005,2006,stale_prices
+JP3771800004,2006,no_carbon_data
+JP3774200004,2006,no_carbon_data
+JP3778630008,2006,no_carbon_data
+JP3780100008,2006,no_carbon_data
+JP3783420007,2006,stale_prices | no_carbon_data
+JP3783600004,2006,no_carbon_data
+JP3787000003,2006,no_carbon_data
+JP3789000001,2006,no_carbon_data
+JP3791200003,2006,stale_prices | no_carbon_data
+JP3792600003,2006,no_carbon_data
+JP3796150005,2006,no_carbon_data
+JP3799000009,2006,no_carbon_data
+JP3802300008,2006,no_carbon_data
+JP3802400006,2006,no_carbon_data
+JP3811000003,2006,no_carbon_data
+JP3814000000,2006,no_carbon_data
+JP3814800003,2006,no_carbon_data
+JP3818000006,2006,no_carbon_data
+JP3819400007,2006,no_carbon_data
+JP3826800009,2006,no_carbon_data
+JP3827200001,2006,no_carbon_data
+JP3830000000,2006,no_carbon_data
+JP3830800003,2006,no_carbon_data
+JP3834800009,2006,no_carbon_data
+JP3835620000,2006,no_carbon_data
+JP3837800006,2006,no_carbon_data
+JP3841800000,2006,no_carbon_data
+JP3842400008,2006,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2006,no_carbon_data
+JP3854600008,2006,no_carbon_data
+JP3862400003,2006,no_carbon_data
+JP3863800003,2006,no_carbon_data
+JP3866800000,2006,no_carbon_data
+JP3868400007,2006,no_carbon_data
+JP3869010003,2006,stale_prices | no_carbon_data
+JP3870000001,2006,no_carbon_data
+JP3870400003,2006,no_carbon_data
+JP3877600001,2006,stale_prices | no_carbon_data
+JP3885400006,2006,no_carbon_data
+JP3885780001,2006,stale_prices | no_carbon_data
+JP3888300005,2006,no_carbon_data
+JP3888400003,2006,no_carbon_data
+JP3890310000,2006,no_carbon_data
+JP3891600003,2006,no_carbon_data
+JP3892100003,2006,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2006,no_carbon_data
+JP3893600001,2006,no_carbon_data
+JP3894900004,2006,no_carbon_data
+JP3896800004,2006,no_carbon_data
+JP3899600005,2006,no_carbon_data
+JP3899800001,2006,insufficient_history(2mo)
+JP3900000005,2006,no_carbon_data
+JP3901200000,2006,stale_prices | no_carbon_data
+JP3902000003,2006,no_carbon_data
+JP3902400005,2006,no_carbon_data
+JP3902900004,2006,no_carbon_data
+JP3906000009,2006,no_carbon_data
+JP3919800007,2006,no_carbon_data
+JP3931600005,2006,no_carbon_data
+JP3933800009,2006,no_carbon_data
+JP3935600001,2006,no_carbon_data
+JP3939000000,2006,no_carbon_data
+JP3940000007,2006,no_carbon_data
+JP3940400009,2006,no_carbon_data
+JP3942400007,2006,no_carbon_data
+JP3942600002,2006,no_carbon_data
+JP3942800008,2006,no_carbon_data
+JP3944130008,2006,stale_prices | no_carbon_data
+JP3951200009,2006,stale_prices | no_carbon_data
+JP3951600000,2006,no_carbon_data
+JP3967200001,2006,stale_prices | no_carbon_data
+JP3973400009,2006,no_carbon_data
+JP3977400005,2006,no_carbon_data
+JP3982100004,2006,no_carbon_data
+JP3982800009,2006,no_carbon_data
+JP3992400006,2006,no_carbon_data
+KYG0535Q1331,2006,no_carbon_data
+KYG2108Y1052,2006,no_carbon_data
+KYG210961051,2006,insufficient_history(30mo) | no_carbon_data
+KYG217651051,2006,no_carbon_data
+KYG525621408,2006,no_carbon_data
+KYG5427W1309,2006,no_carbon_data
+KYG548561284,2006,insufficient_history(32mo) | no_carbon_data
+KYG9431R1039,2006,insufficient_history(0mo) | no_carbon_data
+MU0117U00026,2006,no_carbon_data
+NZAIRE0001S2,2006,no_carbon_data
+NZCENE0001S6,2006,no_carbon_data
+NZSKCE0001S2,2006,no_carbon_data
+NZTELE0001S4,2006,no_carbon_data
+SG0531000230,2006,no_carbon_data
+SG1B51001017,2006,no_carbon_data
+SG1F60858221,2006,no_carbon_data
+SGXE34184239,2006,no_carbon_data
+SG1J26887955,2006,no_carbon_data
+SG1L01001701,2006,no_carbon_data
+SG1M31001969,2006,no_carbon_data
+SG1M51904654,2006,no_carbon_data
+SG1M77906915,2006,no_carbon_data
+SG1N31909426,2006,no_carbon_data
+SG1P66918738,2006,no_carbon_data
+SG1R50925390,2006,no_carbon_data
+SG1S04926220,2006,no_carbon_data
+SG1S76928401,2006,no_carbon_data
+SG1S83002349,2006,no_carbon_data
+SG1T58930911,2006,no_carbon_data
+SG1T75931496,2006,no_carbon_data
+SG1U68934629,2006,no_carbon_data
+SG1V61937297,2006,no_carbon_data
+SG2B80958517,2006,no_carbon_data
+SG9999000020,2006,no_carbon_data
+SG9999003735,2006,no_carbon_data
+SGXE21576413,2006,no_carbon_data
+SGXE65760014,2006,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2006,no_carbon_data
+AU000000ABC7,2007,no_carbon_data
+AU000000ALL7,2007,no_carbon_data
+AU000000ANN9,2007,no_carbon_data
+AU000000APA1,2007,no_carbon_data
+AU000000BEN6,2007,no_carbon_data
+AU000000BOQ8,2007,no_carbon_data
+AU000000BPT9,2007,no_carbon_data
+AU000000BSL0,2007,no_carbon_data
+AU000000BWP3,2007,no_carbon_data
+AU000000CBA7,2007,no_carbon_data
+AU000000CGF5,2007,no_carbon_data
+AU000000CIM7,2007,no_carbon_data
+AU000000CPU5,2007,no_carbon_data
+AU000000CQR9,2007,no_carbon_data
+AU000000CSR5,2007,no_carbon_data
+AU000000CWY3,2007,insufficient_history(31mo) | no_carbon_data
+AU000000DOW2,2007,no_carbon_data
+AU000000ELD6,2007,no_carbon_data
+AU000000ERA9,2007,no_carbon_data
+AU000000FLT9,2007,no_carbon_data
+AU000000GMG2,2007,no_carbon_data
+AU000000GWA4,2007,no_carbon_data
+AU000000HIL8,2007,no_carbon_data
+AU000000HVN7,2007,no_carbon_data
+AU000000IFL2,2007,no_carbon_data
+AU000000IGO4,2007,no_carbon_data
+AU000000ILU1,2007,no_carbon_data
+AU000000IRE2,2007,no_carbon_data
+AU000000IVC8,2007,no_carbon_data
+AU000000JBH7,2007,no_carbon_data
+AU000000LLC3,2007,no_carbon_data
+AU000000MAH3,2007,no_carbon_data
+AU000000MGX7,2007,stale_prices | no_carbon_data
+AU000000MND5,2007,no_carbon_data
+AU000000MQG1,2007,no_carbon_data
+AU000000MTS0,2007,no_carbon_data
+AU000000NCM7,2007,no_carbon_data
+AU000000OZL8,2007,no_carbon_data
+AU000000PPT9,2007,no_carbon_data
+AU000000QBE9,2007,no_carbon_data
+AU000000RHC8,2007,stale_prices | no_carbon_data
+AU000000SBM8,2007,no_carbon_data
+AU000000SDG6,2007,no_carbon_data
+AU000000SEK6,2007,insufficient_history(32mo) | no_carbon_data
+AU000000SHL7,2007,no_carbon_data
+AU000000SIG5,2007,no_carbon_data
+AU000000SUN6,2007,no_carbon_data
+AU000000SWM4,2007,no_carbon_data
+AU000000SXL4,2007,insufficient_history(13mo) | no_carbon_data
+AU000000TAH8,2007,no_carbon_data
+AU000000WBC1,2007,no_carbon_data
+AU000000WES1,2007,no_carbon_data
+AU000000WOR2,2007,no_carbon_data
+AU000000WOW2,2007,no_carbon_data
+AU0000032187,2007,no_carbon_data
+AU0000033359,2007,no_carbon_data
+AU0000038911,2007,no_carbon_data
+AU0000088338,2007,no_carbon_data
+AU0000224040,2007,no_carbon_data
+BMG2108M2182,2007,no_carbon_data
+BMG2178K1009,2007,no_carbon_data
+BMG2442N1048,2007,no_carbon_data
+BMG2624N1535,2007,no_carbon_data
+BMG4600H1198,2007,no_carbon_data
+BMG4639H1227,2007,stale_prices | no_carbon_data
+BMG507361001,2007,no_carbon_data
+BMG524401079,2007,no_carbon_data
+BMG5320C1082,2007,no_carbon_data
+BMG668971101,2007,no_carbon_data
+BMG677491539,2007,no_carbon_data
+BMG684371393,2007,no_carbon_data
+BMG8063F1068,2007,no_carbon_data
+BMG8403G1033,2007,no_carbon_data
+BMG988031446,2007,no_carbon_data
+HK0000049939,2007,no_carbon_data
+HK0000055878,2007,no_carbon_data
+HK0000139300,2007,no_carbon_data
+HK0000592854,2007,no_carbon_data
+HK0000608585,2007,no_carbon_data
+HK0000745908,2007,no_carbon_data
+HK0002007356,2007,no_carbon_data
+HK0003000038,2007,no_carbon_data
+HK0004000045,2007,no_carbon_data
+HK0008011667,2007,no_carbon_data
+HK0010000088,2007,no_carbon_data
+HK0011000095,2007,no_carbon_data
+HK0012000102,2007,no_carbon_data
+HK0014000126,2007,no_carbon_data
+HK0016000132,2007,no_carbon_data
+HK0023000190,2007,no_carbon_data
+HK0083000502,2007,no_carbon_data
+HK0101000591,2007,no_carbon_data
+HK0144000764,2007,no_carbon_data
+HK0165000859,2007,no_carbon_data
+HK0200030994,2007,no_carbon_data
+HK0242001243,2007,no_carbon_data
+HK0270001396,2007,no_carbon_data
+HK0291001490,2007,no_carbon_data
+HK0293001514,2007,no_carbon_data
+HK0308001558,2007,no_carbon_data
+HK0363006039,2007,no_carbon_data
+HK0388045442,2007,no_carbon_data
+HK0392044647,2007,no_carbon_data
+HK0440001847,2007,no_carbon_data
+HK0688002218,2007,no_carbon_data
+HK0823032773,2007,insufficient_history(25mo) | no_carbon_data
+HK0836012952,2007,no_carbon_data
+HK2380027329,2007,no_carbon_data
+HK2388011192,2007,no_carbon_data
+IE00BKVD2N49,2007,no_carbon_data
+JP3027670003,2007,no_carbon_data
+JP3027680002,2007,no_carbon_data
+JP3039710003,2007,no_carbon_data
+JP3040890000,2007,no_carbon_data
+JP3102000001,2007,no_carbon_data
+JP3108600002,2007,no_carbon_data
+JP3111200006,2007,no_carbon_data
+JP3112000009,2007,no_carbon_data
+JP3116000005,2007,no_carbon_data
+JP3118000003,2007,no_carbon_data
+JP3119600009,2007,no_carbon_data
+JP3122400009,2007,no_carbon_data
+JP3122800000,2007,no_carbon_data
+JP3125800007,2007,no_carbon_data
+JP3126340003,2007,no_carbon_data
+JP3126400005,2007,no_carbon_data
+JP3131400008,2007,no_carbon_data
+JP3131430005,2007,no_carbon_data
+JP3134800006,2007,no_carbon_data
+JP3137200006,2007,no_carbon_data
+JP3143000002,2007,no_carbon_data
+JP3143600009,2007,no_carbon_data
+JP3143900003,2007,stale_prices | no_carbon_data
+JP3148800000,2007,no_carbon_data
+JP3152740001,2007,no_carbon_data
+JP3156400008,2007,no_carbon_data
+JP3158800007,2007,no_carbon_data
+JP3160400002,2007,no_carbon_data
+JP3162600005,2007,no_carbon_data
+JP3164630000,2007,no_carbon_data
+JP3164720009,2007,stale_prices
+JP3164800009,2007,no_carbon_data
+JP3165600002,2007,no_carbon_data
+JP3166000004,2007,no_carbon_data
+JP3167500002,2007,insufficient_history(26mo) | no_carbon_data
+JP3172100004,2007,no_carbon_data
+JP3173400007,2007,no_carbon_data
+JP3180400008,2007,no_carbon_data
+JP3188220002,2007,insufficient_history(0mo) | no_carbon_data
+JP3190000004,2007,no_carbon_data
+JP3194000000,2007,no_carbon_data
+JP3196000008,2007,no_carbon_data
+JP3197600004,2007,no_carbon_data
+JP3197800000,2007,no_carbon_data
+JP3198900007,2007,no_carbon_data
+JP3200450009,2007,no_carbon_data
+JP3201200007,2007,no_carbon_data
+JP3203500008,2007,no_carbon_data
+JP3209000003,2007,no_carbon_data
+JP3215800008,2007,no_carbon_data
+JP3218900003,2007,stale_prices | no_carbon_data
+JP3219000001,2007,no_carbon_data
+JP3224200000,2007,stale_prices
+JP3228600007,2007,no_carbon_data
+JP3229400001,2007,no_carbon_data
+JP3236200006,2007,no_carbon_data
+JP3240400006,2007,no_carbon_data
+JP3242800005,2007,no_carbon_data
+JP3243600008,2007,no_carbon_data
+JP3246400000,2007,no_carbon_data
+JP3249600002,2007,no_carbon_data
+JP3256000005,2007,no_carbon_data
+JP3258000003,2007,no_carbon_data
+JP3260800002,2007,no_carbon_data
+JP3263000006,2007,no_carbon_data
+JP3266400005,2007,no_carbon_data
+JP3268950007,2007,no_carbon_data
+JP3269600007,2007,no_carbon_data
+JP3270000007,2007,no_carbon_data
+JP3271400008,2007,no_carbon_data
+JP3274400005,2007,no_carbon_data
+JP3276400003,2007,no_carbon_data
+JP3277800003,2007,no_carbon_data
+JP3278600006,2007,no_carbon_data
+JP3280200001,2007,no_carbon_data
+JP3283650004,2007,no_carbon_data
+JP3289800009,2007,no_carbon_data
+JP3292200007,2007,no_carbon_data
+JP3293200006,2007,no_carbon_data
+JP3294460005,2007,stale_prices | no_carbon_data
+JP3300200007,2007,no_carbon_data
+JP3300600008,2007,no_carbon_data
+JP3304200003,2007,no_carbon_data
+JP3305530002,2007,no_carbon_data
+JP3305800009,2007,no_carbon_data
+JP3305990008,2007,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2007,no_carbon_data
+JP3322930003,2007,insufficient_history(25mo) | no_carbon_data
+JP3326410002,2007,no_carbon_data
+JP3336000009,2007,no_carbon_data
+JP3336600006,2007,no_carbon_data
+JP3347200002,2007,no_carbon_data
+JP3350800003,2007,no_carbon_data
+JP3351100007,2007,stale_prices | no_carbon_data
+JP3351500008,2007,no_carbon_data
+JP3351600006,2007,no_carbon_data
+JP3352000008,2007,no_carbon_data
+JP3352400000,2007,no_carbon_data
+JP3358000002,2007,no_carbon_data
+JP3358200008,2007,no_carbon_data
+JP3358800005,2007,no_carbon_data
+JP3362700001,2007,no_carbon_data
+JP3368000000,2007,no_carbon_data
+JP3375800004,2007,no_carbon_data
+JP3381000003,2007,no_carbon_data
+JP3385820000,2007,no_carbon_data
+JP3386030005,2007,no_carbon_data
+JP3388200002,2007,no_carbon_data
+JP3389900006,2007,no_carbon_data
+JP3396350005,2007,stale_prices | no_carbon_data
+JP3397200001,2007,no_carbon_data
+JP3398000004,2007,stale_prices | no_carbon_data
+JP3399400005,2007,no_carbon_data
+JP3400900001,2007,no_carbon_data
+JP3404200002,2007,no_carbon_data
+JP3404600003,2007,no_carbon_data
+JP3405400007,2007,no_carbon_data
+JP3407200009,2007,no_carbon_data
+JP3407400005,2007,no_carbon_data
+JP3409000001,2007,no_carbon_data
+JP3411000007,2007,no_carbon_data
+JP3414750004,2007,no_carbon_data
+JP3415400005,2007,no_carbon_data
+JP3419050004,2007,no_carbon_data
+JP3419400001,2007,no_carbon_data
+JP3420600003,2007,no_carbon_data
+JP3421100003,2007,no_carbon_data
+JP3421800008,2007,no_carbon_data
+JP3425000001,2007,no_carbon_data
+JP3436100006,2007,no_carbon_data
+JP3436120004,2007,stale_prices | no_carbon_data
+JP3443600006,2007,no_carbon_data
+JP3452000007,2007,no_carbon_data
+JP3456000003,2007,no_carbon_data
+JP3459600007,2007,no_carbon_data
+JP3463000004,2007,no_carbon_data
+JP3475350009,2007,no_carbon_data
+JP3481800005,2007,no_carbon_data
+JP3485800001,2007,no_carbon_data
+JP3486800000,2007,stale_prices | no_carbon_data
+JP3491000000,2007,no_carbon_data
+JP3493400000,2007,no_carbon_data
+JP3494600004,2007,no_carbon_data
+JP3499800005,2007,no_carbon_data
+JP3500610005,2007,stale_prices
+JP3502200003,2007,no_carbon_data
+JP3505000004,2007,no_carbon_data
+JP3511800009,2007,no_carbon_data
+JP3519400000,2007,no_carbon_data
+JP3522200009,2007,no_carbon_data
+JP3526600006,2007,no_carbon_data
+JP3528600004,2007,no_carbon_data
+JP3535800001,2007,stale_prices | no_carbon_data
+JP3538800008,2007,no_carbon_data
+JP3539250005,2007,stale_prices | no_carbon_data
+JP3544000007,2007,no_carbon_data
+JP3546800008,2007,no_carbon_data
+JP3548610009,2007,insufficient_history(34mo) | no_carbon_data
+JP3549600009,2007,no_carbon_data
+JP3551500006,2007,no_carbon_data
+JP3551520004,2007,no_carbon_data
+JP3560800009,2007,no_carbon_data
+JP3566800003,2007,no_carbon_data
+JP3571400005,2007,no_carbon_data
+JP3573000001,2007,no_carbon_data
+JP3574200006,2007,no_carbon_data
+JP3579800008,2007,no_carbon_data
+JP3582600007,2007,no_carbon_data
+JP3585800000,2007,no_carbon_data
+JP3588600001,2007,no_carbon_data
+JP3596200000,2007,no_carbon_data
+JP3597800006,2007,no_carbon_data
+JP3598600009,2007,no_carbon_data
+JP3599000001,2007,no_carbon_data
+JP3600200004,2007,no_carbon_data
+JP3605400005,2007,no_carbon_data
+JP3613000003,2007,no_carbon_data
+JP3613400005,2007,no_carbon_data
+JP3619800000,2007,no_carbon_data
+JP3621000003,2007,no_carbon_data
+JP3625000009,2007,no_carbon_data
+JP3626800001,2007,no_carbon_data
+JP3629000005,2007,no_carbon_data
+JP3633400001,2007,no_carbon_data
+JP3634200004,2007,no_carbon_data
+JP3634600005,2007,no_carbon_data
+JP3635000007,2007,no_carbon_data
+JP3637300009,2007,no_carbon_data
+JP3638600001,2007,no_carbon_data
+JP3657400002,2007,no_carbon_data
+JP3658850007,2007,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2007,no_carbon_data
+JP3663900003,2007,no_carbon_data
+JP3665200006,2007,no_carbon_data
+JP3667600005,2007,no_carbon_data
+JP3670800006,2007,no_carbon_data
+JP3672400003,2007,no_carbon_data
+JP3675600005,2007,no_carbon_data
+JP3676800000,2007,no_carbon_data
+JP3678000005,2007,no_carbon_data
+JP3684000007,2007,no_carbon_data
+JP3684400009,2007,no_carbon_data
+JP3686800008,2007,no_carbon_data
+JP3688370000,2007,no_carbon_data
+JP3689500001,2007,no_carbon_data
+JP3695200000,2007,stale_prices | no_carbon_data
+JP3711200000,2007,insufficient_history(13mo) | stale_prices | no_carbon_data
+JP3711600001,2007,no_carbon_data
+JP3718800000,2007,no_carbon_data
+JP3721400004,2007,no_carbon_data
+JP3726200003,2007,no_carbon_data
+JP3726800000,2007,no_carbon_data
+JP3729000004,2007,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2007,no_carbon_data
+JP3733000008,2007,no_carbon_data
+JP3733400000,2007,no_carbon_data
+JP3734800000,2007,no_carbon_data
+JP3735400008,2007,stale_prices
+JP3738600000,2007,no_carbon_data
+JP3742600004,2007,no_carbon_data
+JP3743000006,2007,no_carbon_data
+JP3753000003,2007,no_carbon_data
+JP3756100008,2007,no_carbon_data
+JP3756600007,2007,no_carbon_data
+JP3762600009,2007,no_carbon_data
+JP3762800005,2007,no_carbon_data
+JP3765400001,2007,no_carbon_data
+JP3766550002,2007,insufficient_history(34mo) | stale_prices | no_carbon_data
+JP3768600003,2007,stale_prices | no_carbon_data
+JP3769000005,2007,stale_prices
+JP3771800004,2007,no_carbon_data
+JP3774200004,2007,no_carbon_data
+JP3778630008,2007,no_carbon_data
+JP3780100008,2007,no_carbon_data
+JP3783420007,2007,stale_prices | no_carbon_data
+JP3783600004,2007,no_carbon_data
+JP3787000003,2007,no_carbon_data
+JP3789000001,2007,no_carbon_data
+JP3791200003,2007,stale_prices | no_carbon_data
+JP3792600003,2007,no_carbon_data
+JP3796150005,2007,no_carbon_data
+JP3799000009,2007,no_carbon_data
+JP3802300008,2007,no_carbon_data
+JP3802400006,2007,no_carbon_data
+JP3811000003,2007,no_carbon_data
+JP3814000000,2007,no_carbon_data
+JP3814800003,2007,no_carbon_data
+JP3818000006,2007,no_carbon_data
+JP3819400007,2007,no_carbon_data
+JP3820000002,2007,no_carbon_data
+JP3826800009,2007,no_carbon_data
+JP3827200001,2007,no_carbon_data
+JP3830000000,2007,no_carbon_data
+JP3830800003,2007,no_carbon_data
+JP3834800009,2007,no_carbon_data
+JP3835620000,2007,no_carbon_data
+JP3837800006,2007,no_carbon_data
+JP3841800000,2007,no_carbon_data
+JP3842400008,2007,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2007,no_carbon_data
+JP3854600008,2007,no_carbon_data
+JP3862400003,2007,no_carbon_data
+JP3863800003,2007,no_carbon_data
+JP3866800000,2007,no_carbon_data
+JP3868400007,2007,no_carbon_data
+JP3869010003,2007,stale_prices | no_carbon_data
+JP3870000001,2007,no_carbon_data
+JP3870400003,2007,no_carbon_data
+JP3877600001,2007,stale_prices | no_carbon_data
+JP3885400006,2007,no_carbon_data
+JP3885780001,2007,stale_prices | no_carbon_data
+JP3888300005,2007,no_carbon_data
+JP3888400003,2007,no_carbon_data
+JP3890310000,2007,no_carbon_data
+JP3890350006,2007,no_carbon_data
+JP3891600003,2007,no_carbon_data
+JP3892100003,2007,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2007,no_carbon_data
+JP3893600001,2007,no_carbon_data
+JP3894900004,2007,no_carbon_data
+JP3896800004,2007,no_carbon_data
+JP3898400001,2007,no_carbon_data
+JP3899600005,2007,no_carbon_data
+JP3899800001,2007,insufficient_history(2mo)
+JP3900000005,2007,no_carbon_data
+JP3901200000,2007,stale_prices | no_carbon_data
+JP3902000003,2007,no_carbon_data
+JP3902400005,2007,no_carbon_data
+JP3903000002,2007,no_carbon_data
+JP3906000009,2007,no_carbon_data
+JP3919800007,2007,no_carbon_data
+JP3931600005,2007,no_carbon_data
+JP3933800009,2007,no_carbon_data
+JP3935600001,2007,no_carbon_data
+JP3940000007,2007,no_carbon_data
+JP3940400009,2007,no_carbon_data
+JP3942400007,2007,no_carbon_data
+JP3942600002,2007,no_carbon_data
+JP3942800008,2007,no_carbon_data
+JP3944130008,2007,stale_prices | no_carbon_data
+JP3951200009,2007,stale_prices | no_carbon_data
+JP3951600000,2007,no_carbon_data
+JP3955000009,2007,no_carbon_data
+JP3967200001,2007,stale_prices | no_carbon_data
+JP3973400009,2007,no_carbon_data
+JP3977400005,2007,no_carbon_data
+JP3982100004,2007,no_carbon_data
+JP3982800009,2007,no_carbon_data
+JP3992400006,2007,no_carbon_data
+KYG0535Q1331,2007,no_carbon_data
+KYG2108Y1052,2007,no_carbon_data
+KYG210961051,2007,no_carbon_data
+KYG217651051,2007,no_carbon_data
+KYG525621408,2007,no_carbon_data
+KYG5427W1309,2007,no_carbon_data
+KYG548561284,2007,no_carbon_data
+KYG9431R1039,2007,insufficient_history(0mo) | no_carbon_data
+MU0117U00026,2007,no_carbon_data
+NZAIRE0001S2,2007,no_carbon_data
+NZSKCE0001S2,2007,no_carbon_data
+SG0531000230,2007,no_carbon_data
+SG1B51001017,2007,no_carbon_data
+SG1F60858221,2007,no_carbon_data
+SGXE34184239,2007,no_carbon_data
+SG1J26887955,2007,no_carbon_data
+SG1L01001701,2007,no_carbon_data
+SG1M31001969,2007,no_carbon_data
+SG1M51904654,2007,no_carbon_data
+SG1M77906915,2007,no_carbon_data
+SG1N31909426,2007,no_carbon_data
+SG1P66918738,2007,no_carbon_data
+SG1R50925390,2007,no_carbon_data
+SG1S04926220,2007,no_carbon_data
+SG1S76928401,2007,no_carbon_data
+SG1S83002349,2007,no_carbon_data
+SG1T58930911,2007,no_carbon_data
+SG1T75931496,2007,no_carbon_data
+SG1U68934629,2007,no_carbon_data
+SG1V61937297,2007,no_carbon_data
+SG2B80958517,2007,no_carbon_data
+SG9999000020,2007,no_carbon_data
+SG9999003735,2007,no_carbon_data
+SGXE21576413,2007,no_carbon_data
+SGXE65760014,2007,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2007,no_carbon_data
+AU000000ABC7,2008,no_carbon_data
+AU000000ALL7,2008,no_carbon_data
+AU000000ANN9,2008,no_carbon_data
+AU000000APA1,2008,no_carbon_data
+AU000000ASX7,2008,no_carbon_data
+AU000000BEN6,2008,no_carbon_data
+AU000000BOQ8,2008,no_carbon_data
+AU000000BPT9,2008,no_carbon_data
+AU000000BSL0,2008,no_carbon_data
+AU000000BWP3,2008,no_carbon_data
+AU000000CBA7,2008,no_carbon_data
+AU000000CGF5,2008,no_carbon_data
+AU000000CIM7,2008,no_carbon_data
+AU000000COH5,2008,no_carbon_data
+AU000000CPU5,2008,no_carbon_data
+AU000000CQR9,2008,no_carbon_data
+AU000000CWY3,2008,no_carbon_data
+AU000000ELD6,2008,no_carbon_data
+AU000000FLT9,2008,no_carbon_data
+AU000000GMG2,2008,no_carbon_data
+AU000000GWA4,2008,no_carbon_data
+AU000000HIL8,2008,no_carbon_data
+AU000000HVN7,2008,no_carbon_data
+AU000000IFL2,2008,no_carbon_data
+AU000000IGO4,2008,no_carbon_data
+AU000000ILU1,2008,no_carbon_data
+AU000000IRE2,2008,no_carbon_data
+AU000000IVC8,2008,no_carbon_data
+AU000000JBH7,2008,no_carbon_data
+AU000000MAH3,2008,no_carbon_data
+AU000000MGX7,2008,stale_prices | no_carbon_data
+AU000000MND5,2008,no_carbon_data
+AU000000MQG1,2008,no_carbon_data
+AU000000MTS0,2008,no_carbon_data
+AU000000NCM7,2008,no_carbon_data
+AU000000PPT9,2008,no_carbon_data
+AU000000RHC8,2008,stale_prices | no_carbon_data
+AU000000SBM8,2008,no_carbon_data
+AU000000SDG6,2008,no_carbon_data
+AU000000SEK6,2008,no_carbon_data
+AU000000SHL7,2008,no_carbon_data
+AU000000SIG5,2008,no_carbon_data
+AU000000SUN6,2008,no_carbon_data
+AU000000SWM4,2008,no_carbon_data
+AU000000SXL4,2008,insufficient_history(25mo) | no_carbon_data
+AU000000TAH8,2008,no_carbon_data
+AU000000WES1,2008,no_carbon_data
+AU000000WOR2,2008,no_carbon_data
+AU0000032187,2008,no_carbon_data
+AU0000033359,2008,no_carbon_data
+AU0000038911,2008,no_carbon_data
+AU0000224040,2008,no_carbon_data
+BMG2108M2182,2008,no_carbon_data
+BMG2178K1009,2008,no_carbon_data
+BMG2442N1048,2008,no_carbon_data
+BMG2624N1535,2008,no_carbon_data
+BMG4600H1198,2008,no_carbon_data
+BMG4639H1227,2008,stale_prices | no_carbon_data
+BMG507361001,2008,no_carbon_data
+BMG524401079,2008,no_carbon_data
+BMG5320C1082,2008,no_carbon_data
+BMG668971101,2008,no_carbon_data
+BMG677491539,2008,no_carbon_data
+BMG684371393,2008,no_carbon_data
+BMG8063F1068,2008,no_carbon_data
+BMG8403G1033,2008,no_carbon_data
+BMG988031446,2008,no_carbon_data
+HK0000049939,2008,no_carbon_data
+HK0000055878,2008,no_carbon_data
+HK0000139300,2008,no_carbon_data
+HK0000592854,2008,no_carbon_data
+HK0000608585,2008,no_carbon_data
+HK0000745908,2008,no_carbon_data
+HK0002007356,2008,no_carbon_data
+HK0003000038,2008,no_carbon_data
+HK0004000045,2008,no_carbon_data
+HK0008011667,2008,no_carbon_data
+HK0010000088,2008,no_carbon_data
+HK0012000102,2008,no_carbon_data
+HK0014000126,2008,no_carbon_data
+HK0016000132,2008,no_carbon_data
+HK0023000190,2008,no_carbon_data
+HK0083000502,2008,no_carbon_data
+HK0101000591,2008,no_carbon_data
+HK0144000764,2008,no_carbon_data
+HK0165000859,2008,no_carbon_data
+HK0200030994,2008,no_carbon_data
+HK0242001243,2008,no_carbon_data
+HK0270001396,2008,no_carbon_data
+HK0291001490,2008,no_carbon_data
+HK0308001558,2008,no_carbon_data
+HK0363006039,2008,no_carbon_data
+HK0392044647,2008,no_carbon_data
+HK0440001847,2008,no_carbon_data
+HK0688002218,2008,no_carbon_data
+HK0823032773,2008,no_carbon_data
+HK0836012952,2008,no_carbon_data
+HK2380027329,2008,no_carbon_data
+HK2388011192,2008,no_carbon_data
+JP3027670003,2008,no_carbon_data
+JP3027680002,2008,no_carbon_data
+JP3039710003,2008,no_carbon_data
+JP3040890000,2008,no_carbon_data
+JP3102000001,2008,no_carbon_data
+JP3108600002,2008,no_carbon_data
+JP3111200006,2008,no_carbon_data
+JP3112000009,2008,no_carbon_data
+JP3116000005,2008,no_carbon_data
+JP3119600009,2008,no_carbon_data
+JP3122400009,2008,no_carbon_data
+JP3122800000,2008,no_carbon_data
+JP3125800007,2008,no_carbon_data
+JP3126340003,2008,no_carbon_data
+JP3126400005,2008,no_carbon_data
+JP3131400008,2008,no_carbon_data
+JP3131430005,2008,no_carbon_data
+JP3134800006,2008,no_carbon_data
+JP3137200006,2008,no_carbon_data
+JP3143000002,2008,no_carbon_data
+JP3143600009,2008,no_carbon_data
+JP3143900003,2008,stale_prices | no_carbon_data
+JP3148800000,2008,no_carbon_data
+JP3152740001,2008,no_carbon_data
+JP3156400008,2008,no_carbon_data
+JP3158800007,2008,no_carbon_data
+JP3160400002,2008,no_carbon_data
+JP3162600005,2008,no_carbon_data
+JP3164630000,2008,no_carbon_data
+JP3164720009,2008,stale_prices
+JP3164800009,2008,no_carbon_data
+JP3165600002,2008,no_carbon_data
+JP3166000004,2008,no_carbon_data
+JP3167500002,2008,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2008,no_carbon_data
+JP3173400007,2008,no_carbon_data
+JP3180400008,2008,no_carbon_data
+JP3188220002,2008,insufficient_history(0mo) | no_carbon_data
+JP3190000004,2008,no_carbon_data
+JP3194000000,2008,no_carbon_data
+JP3196000008,2008,no_carbon_data
+JP3197600004,2008,no_carbon_data
+JP3197800000,2008,no_carbon_data
+JP3198900007,2008,no_carbon_data
+JP3200450009,2008,no_carbon_data
+JP3201200007,2008,no_carbon_data
+JP3203500008,2008,no_carbon_data
+JP3205800000,2008,no_carbon_data
+JP3209000003,2008,no_carbon_data
+JP3215800008,2008,no_carbon_data
+JP3218900003,2008,stale_prices | no_carbon_data
+JP3219000001,2008,no_carbon_data
+JP3224200000,2008,stale_prices
+JP3228600007,2008,no_carbon_data
+JP3236200006,2008,no_carbon_data
+JP3240400006,2008,no_carbon_data
+JP3242800005,2008,no_carbon_data
+JP3243600008,2008,no_carbon_data
+JP3246400000,2008,no_carbon_data
+JP3249600002,2008,no_carbon_data
+JP3256000005,2008,no_carbon_data
+JP3258000003,2008,no_carbon_data
+JP3260800002,2008,no_carbon_data
+JP3263000006,2008,no_carbon_data
+JP3266400005,2008,no_carbon_data
+JP3268950007,2008,no_carbon_data
+JP3269600007,2008,no_carbon_data
+JP3270000007,2008,no_carbon_data
+JP3271400008,2008,no_carbon_data
+JP3274400005,2008,no_carbon_data
+JP3276400003,2008,no_carbon_data
+JP3277800003,2008,no_carbon_data
+JP3278600006,2008,no_carbon_data
+JP3280200001,2008,no_carbon_data
+JP3283650004,2008,no_carbon_data
+JP3289800009,2008,no_carbon_data
+JP3292200007,2008,no_carbon_data
+JP3293200006,2008,no_carbon_data
+JP3294460005,2008,stale_prices | no_carbon_data
+JP3300200007,2008,no_carbon_data
+JP3304200003,2008,no_carbon_data
+JP3305530002,2008,no_carbon_data
+JP3305800009,2008,no_carbon_data
+JP3305990008,2008,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2008,no_carbon_data
+JP3322930003,2008,no_carbon_data
+JP3326410002,2008,no_carbon_data
+JP3336000009,2008,no_carbon_data
+JP3336600006,2008,no_carbon_data
+JP3347200002,2008,no_carbon_data
+JP3350800003,2008,no_carbon_data
+JP3351100007,2008,stale_prices | no_carbon_data
+JP3351500008,2008,no_carbon_data
+JP3351600006,2008,no_carbon_data
+JP3352000008,2008,no_carbon_data
+JP3352400000,2008,no_carbon_data
+JP3358000002,2008,no_carbon_data
+JP3358200008,2008,no_carbon_data
+JP3358800005,2008,no_carbon_data
+JP3362700001,2008,no_carbon_data
+JP3368000000,2008,no_carbon_data
+JP3375800004,2008,no_carbon_data
+JP3381000003,2008,no_carbon_data
+JP3385820000,2008,no_carbon_data
+JP3385980002,2008,no_carbon_data
+JP3386030005,2008,no_carbon_data
+JP3388200002,2008,no_carbon_data
+JP3389900006,2008,no_carbon_data
+JP3396350005,2008,stale_prices | no_carbon_data
+JP3397200001,2008,no_carbon_data
+JP3398000004,2008,stale_prices | no_carbon_data
+JP3399400005,2008,no_carbon_data
+JP3400900001,2008,no_carbon_data
+JP3402600005,2008,no_carbon_data
+JP3404200002,2008,no_carbon_data
+JP3404600003,2008,no_carbon_data
+JP3407200009,2008,no_carbon_data
+JP3407400005,2008,no_carbon_data
+JP3409000001,2008,no_carbon_data
+JP3411000007,2008,no_carbon_data
+JP3414750004,2008,no_carbon_data
+JP3415400005,2008,no_carbon_data
+JP3419050004,2008,no_carbon_data
+JP3421100003,2008,no_carbon_data
+JP3421800008,2008,no_carbon_data
+JP3425000001,2008,no_carbon_data
+JP3436100006,2008,no_carbon_data
+JP3436120004,2008,stale_prices | no_carbon_data
+JP3443600006,2008,no_carbon_data
+JP3456000003,2008,no_carbon_data
+JP3459600007,2008,no_carbon_data
+JP3463000004,2008,no_carbon_data
+JP3475350009,2008,no_carbon_data
+JP3481800005,2008,no_carbon_data
+JP3485800001,2008,no_carbon_data
+JP3486800000,2008,stale_prices | no_carbon_data
+JP3491000000,2008,no_carbon_data
+JP3493400000,2008,no_carbon_data
+JP3493800001,2008,no_carbon_data
+JP3494600004,2008,no_carbon_data
+JP3495000006,2008,no_carbon_data
+JP3499800005,2008,no_carbon_data
+JP3500610005,2008,stale_prices | no_carbon_data
+JP3505000004,2008,no_carbon_data
+JP3511800009,2008,no_carbon_data
+JP3519400000,2008,no_carbon_data
+JP3522200009,2008,no_carbon_data
+JP3526600006,2008,no_carbon_data
+JP3528600004,2008,no_carbon_data
+JP3535800001,2008,stale_prices | no_carbon_data
+JP3538800008,2008,no_carbon_data
+JP3539250005,2008,stale_prices | no_carbon_data
+JP3544000007,2008,no_carbon_data
+JP3546800008,2008,no_carbon_data
+JP3548610009,2008,no_carbon_data
+JP3549600009,2008,no_carbon_data
+JP3551500006,2008,no_carbon_data
+JP3551520004,2008,no_carbon_data
+JP3560800009,2008,no_carbon_data
+JP3566800003,2008,no_carbon_data
+JP3571400005,2008,no_carbon_data
+JP3574200006,2008,no_carbon_data
+JP3579800008,2008,no_carbon_data
+JP3582600007,2008,no_carbon_data
+JP3585800000,2008,no_carbon_data
+JP3588600001,2008,no_carbon_data
+JP3592200004,2008,no_carbon_data
+JP3596200000,2008,no_carbon_data
+JP3597800006,2008,no_carbon_data
+JP3598600009,2008,no_carbon_data
+JP3599000001,2008,no_carbon_data
+JP3600200004,2008,no_carbon_data
+JP3605400005,2008,no_carbon_data
+JP3613000003,2008,no_carbon_data
+JP3619800000,2008,no_carbon_data
+JP3621000003,2008,no_carbon_data
+JP3625000009,2008,no_carbon_data
+JP3626800001,2008,no_carbon_data
+JP3629000005,2008,no_carbon_data
+JP3633400001,2008,no_carbon_data
+JP3634200004,2008,no_carbon_data
+JP3634600005,2008,no_carbon_data
+JP3635000007,2008,no_carbon_data
+JP3635400009,2008,no_carbon_data
+JP3637300009,2008,no_carbon_data
+JP3638600001,2008,no_carbon_data
+JP3657400002,2008,no_carbon_data
+JP3658850007,2008,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2008,no_carbon_data
+JP3663900003,2008,no_carbon_data
+JP3665200006,2008,no_carbon_data
+JP3667600005,2008,no_carbon_data
+JP3670800006,2008,no_carbon_data
+JP3672400003,2008,no_carbon_data
+JP3675600005,2008,no_carbon_data
+JP3676800000,2008,no_carbon_data
+JP3678000005,2008,no_carbon_data
+JP3684000007,2008,no_carbon_data
+JP3684400009,2008,no_carbon_data
+JP3688370000,2008,no_carbon_data
+JP3689500001,2008,no_carbon_data
+JP3695200000,2008,stale_prices | no_carbon_data
+JP3711200000,2008,insufficient_history(25mo) | stale_prices | no_carbon_data
+JP3711600001,2008,no_carbon_data
+JP3718800000,2008,no_carbon_data
+JP3720800006,2008,no_carbon_data
+JP3721400004,2008,no_carbon_data
+JP3726200003,2008,no_carbon_data
+JP3726800000,2008,no_carbon_data
+JP3729000004,2008,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2008,no_carbon_data
+JP3733000008,2008,no_carbon_data
+JP3733400000,2008,no_carbon_data
+JP3734800000,2008,no_carbon_data
+JP3735400008,2008,stale_prices
+JP3738600000,2008,no_carbon_data
+JP3742600004,2008,no_carbon_data
+JP3753000003,2008,no_carbon_data
+JP3756100008,2008,no_carbon_data
+JP3756600007,2008,no_carbon_data
+JP3762600009,2008,no_carbon_data
+JP3762800005,2008,no_carbon_data
+JP3765400001,2008,no_carbon_data
+JP3766550002,2008,stale_prices | no_carbon_data
+JP3768600003,2008,stale_prices | no_carbon_data
+JP3769000005,2008,stale_prices
+JP3771800004,2008,no_carbon_data
+JP3774200004,2008,no_carbon_data
+JP3778630008,2008,no_carbon_data
+JP3780100008,2008,no_carbon_data
+JP3783420007,2008,stale_prices | no_carbon_data
+JP3783600004,2008,no_carbon_data
+JP3786200000,2008,no_carbon_data
+JP3787000003,2008,no_carbon_data
+JP3788600009,2008,no_carbon_data
+JP3789000001,2008,no_carbon_data
+JP3791200003,2008,stale_prices | no_carbon_data
+JP3792600003,2008,no_carbon_data
+JP3796150005,2008,no_carbon_data
+JP3799000009,2008,no_carbon_data
+JP3802300008,2008,no_carbon_data
+JP3802400006,2008,no_carbon_data
+JP3811000003,2008,no_carbon_data
+JP3814000000,2008,no_carbon_data
+JP3814800003,2008,no_carbon_data
+JP3818000006,2008,no_carbon_data
+JP3819400007,2008,no_carbon_data
+JP3820000002,2008,no_carbon_data
+JP3826800009,2008,no_carbon_data
+JP3827200001,2008,no_carbon_data
+JP3830000000,2008,no_carbon_data
+JP3830800003,2008,no_carbon_data
+JP3834800009,2008,no_carbon_data
+JP3835620000,2008,no_carbon_data
+JP3837800006,2008,no_carbon_data
+JP3841800000,2008,no_carbon_data
+JP3842400008,2008,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2008,no_carbon_data
+JP3850200001,2008,no_carbon_data
+JP3854600008,2008,no_carbon_data
+JP3862400003,2008,no_carbon_data
+JP3863800003,2008,no_carbon_data
+JP3866800000,2008,no_carbon_data
+JP3868400007,2008,no_carbon_data
+JP3869010003,2008,stale_prices | no_carbon_data
+JP3870000001,2008,no_carbon_data
+JP3870400003,2008,no_carbon_data
+JP3877600001,2008,stale_prices | no_carbon_data
+JP3885400006,2008,no_carbon_data
+JP3885780001,2008,stale_prices | no_carbon_data
+JP3888300005,2008,no_carbon_data
+JP3888400003,2008,no_carbon_data
+JP3890310000,2008,no_carbon_data
+JP3890350006,2008,no_carbon_data
+JP3891600003,2008,no_carbon_data
+JP3892100003,2008,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2008,no_carbon_data
+JP3893600001,2008,no_carbon_data
+JP3894900004,2008,no_carbon_data
+JP3896800004,2008,no_carbon_data
+JP3899600005,2008,no_carbon_data
+JP3899800001,2008,insufficient_history(2mo)
+JP3900000005,2008,no_carbon_data
+JP3901200000,2008,stale_prices | no_carbon_data
+JP3902000003,2008,no_carbon_data
+JP3902400005,2008,no_carbon_data
+JP3903000002,2008,no_carbon_data
+JP3906000009,2008,no_carbon_data
+JP3919800007,2008,no_carbon_data
+JP3931600005,2008,no_carbon_data
+JP3933800009,2008,no_carbon_data
+JP3935600001,2008,no_carbon_data
+JP3940000007,2008,no_carbon_data
+JP3940400009,2008,no_carbon_data
+JP3942400007,2008,no_carbon_data
+JP3942600002,2008,no_carbon_data
+JP3942800008,2008,no_carbon_data
+JP3944130008,2008,stale_prices | no_carbon_data
+JP3951200009,2008,stale_prices | no_carbon_data
+JP3951600000,2008,no_carbon_data
+JP3955000009,2008,no_carbon_data
+JP3967200001,2008,stale_prices | no_carbon_data
+JP3973400009,2008,no_carbon_data
+JP3977400005,2008,no_carbon_data
+JP3982100004,2008,no_carbon_data
+JP3982800009,2008,no_carbon_data
+JP3992400006,2008,no_carbon_data
+KYG0535Q1331,2008,no_carbon_data
+KYG2108Y1052,2008,no_carbon_data
+KYG210961051,2008,no_carbon_data
+KYG217651051,2008,no_carbon_data
+KYG525621408,2008,no_carbon_data
+KYG5427W1309,2008,no_carbon_data
+KYG548561284,2008,no_carbon_data
+KYG9431R1039,2008,insufficient_history(9mo) | no_carbon_data
+MU0117U00026,2008,no_carbon_data
+NZAIRE0001S2,2008,no_carbon_data
+NZCENE0001S6,2008,no_carbon_data
+NZFBUE0001S0,2008,no_carbon_data
+NZSKCE0001S2,2008,no_carbon_data
+SG0531000230,2008,no_carbon_data
+SG1B51001017,2008,no_carbon_data
+SG1F60858221,2008,no_carbon_data
+SGXE34184239,2008,no_carbon_data
+SG1J26887955,2008,no_carbon_data
+SG1L01001701,2008,no_carbon_data
+SG1M31001969,2008,no_carbon_data
+SG1M51904654,2008,no_carbon_data
+SG1M77906915,2008,no_carbon_data
+SG1N31909426,2008,no_carbon_data
+SG1P66918738,2008,no_carbon_data
+SG1R50925390,2008,no_carbon_data
+SG1R89002252,2008,no_carbon_data
+SG1S04926220,2008,no_carbon_data
+SG1S76928401,2008,no_carbon_data
+SG1S83002349,2008,no_carbon_data
+SG1T58930911,2008,no_carbon_data
+SG1T75931496,2008,no_carbon_data
+SG1U68934629,2008,no_carbon_data
+SG1V61937297,2008,no_carbon_data
+SG2B80958517,2008,no_carbon_data
+SG9999000020,2008,no_carbon_data
+SG9999003735,2008,no_carbon_data
+SGXE21576413,2008,no_carbon_data
+SGXE65760014,2008,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2008,no_carbon_data
+AU000000ABC7,2009,no_carbon_data
+AU000000ALL7,2009,no_carbon_data
+AU000000ANN9,2009,no_carbon_data
+AU000000ASX7,2009,no_carbon_data
+AU000000BEN6,2009,no_carbon_data
+AU000000BOQ8,2009,no_carbon_data
+AU000000BPT9,2009,no_carbon_data
+AU000000BWP3,2009,no_carbon_data
+AU000000CGF5,2009,no_carbon_data
+AU000000COH5,2009,no_carbon_data
+AU000000CPU5,2009,no_carbon_data
+AU000000CQR9,2009,no_carbon_data
+AU000000CWY3,2009,no_carbon_data
+AU000000ELD6,2009,no_carbon_data
+AU000000FLT9,2009,no_carbon_data
+AU000000GMG2,2009,no_carbon_data
+AU000000GWA4,2009,no_carbon_data
+AU000000HIL8,2009,no_carbon_data
+AU000000HVN7,2009,no_carbon_data
+AU000000IFL2,2009,no_carbon_data
+AU000000IGO4,2009,no_carbon_data
+AU000000ILU1,2009,no_carbon_data
+AU000000IRE2,2009,no_carbon_data
+AU000000JBH7,2009,no_carbon_data
+AU000000MGX7,2009,stale_prices | no_carbon_data
+AU000000MND5,2009,no_carbon_data
+AU000000RHC8,2009,stale_prices | no_carbon_data
+AU000000SBM8,2009,no_carbon_data
+AU000000SDG6,2009,no_carbon_data
+AU000000SEK6,2009,no_carbon_data
+AU000000SHL7,2009,no_carbon_data
+AU000000SIG5,2009,no_carbon_data
+AU000000SUN6,2009,no_carbon_data
+AU000000SWM4,2009,no_carbon_data
+AU000000SXL4,2009,no_carbon_data
+AU000000TAH8,2009,no_carbon_data
+AU000000WOR2,2009,no_carbon_data
+AU0000032187,2009,no_carbon_data
+AU0000033359,2009,no_carbon_data
+AU0000038911,2009,no_carbon_data
+BMG2108M2182,2009,no_carbon_data
+BMG2178K1009,2009,no_carbon_data
+BMG2442N1048,2009,no_carbon_data
+BMG2624N1535,2009,no_carbon_data
+BMG4600H1198,2009,no_carbon_data
+BMG4639H1227,2009,stale_prices | no_carbon_data
+BMG507361001,2009,no_carbon_data
+BMG524401079,2009,no_carbon_data
+BMG5320C1082,2009,no_carbon_data
+BMG668971101,2009,no_carbon_data
+BMG677491539,2009,no_carbon_data
+BMG684371393,2009,no_carbon_data
+BMG8403G1033,2009,no_carbon_data
+BMG988031446,2009,no_carbon_data
+HK0000049939,2009,no_carbon_data
+HK0000055878,2009,no_carbon_data
+HK0000139300,2009,no_carbon_data
+HK0000592854,2009,no_carbon_data
+HK0000608585,2009,no_carbon_data
+HK0000745908,2009,no_carbon_data
+HK0003000038,2009,no_carbon_data
+HK0004000045,2009,no_carbon_data
+HK0008011667,2009,no_carbon_data
+HK0010000088,2009,no_carbon_data
+HK0012000102,2009,no_carbon_data
+HK0014000126,2009,no_carbon_data
+HK0016000132,2009,no_carbon_data
+HK0023000190,2009,no_carbon_data
+HK0083000502,2009,no_carbon_data
+HK0101000591,2009,no_carbon_data
+HK0144000764,2009,no_carbon_data
+HK0165000859,2009,no_carbon_data
+HK0200030994,2009,no_carbon_data
+HK0242001243,2009,no_carbon_data
+HK0270001396,2009,no_carbon_data
+HK0291001490,2009,no_carbon_data
+HK0308001558,2009,no_carbon_data
+HK0363006039,2009,no_carbon_data
+HK0392044647,2009,no_carbon_data
+HK0440001847,2009,no_carbon_data
+HK0688002218,2009,no_carbon_data
+HK0823032773,2009,no_carbon_data
+HK0836012952,2009,no_carbon_data
+HK2380027329,2009,no_carbon_data
+HK2388011192,2009,no_carbon_data
+JP3027670003,2009,no_carbon_data
+JP3027680002,2009,no_carbon_data
+JP3039710003,2009,no_carbon_data
+JP3040890000,2009,no_carbon_data
+JP3102000001,2009,no_carbon_data
+JP3108600002,2009,no_carbon_data
+JP3122400009,2009,no_carbon_data
+JP3122800000,2009,no_carbon_data
+JP3125800007,2009,no_carbon_data
+JP3126340003,2009,no_carbon_data
+JP3126400005,2009,no_carbon_data
+JP3131400008,2009,no_carbon_data
+JP3131430005,2009,no_carbon_data
+JP3134800006,2009,no_carbon_data
+JP3137200006,2009,no_carbon_data
+JP3143000002,2009,no_carbon_data
+JP3143600009,2009,no_carbon_data
+JP3143900003,2009,stale_prices | no_carbon_data
+JP3148800000,2009,no_carbon_data
+JP3152740001,2009,no_carbon_data
+JP3156400008,2009,no_carbon_data
+JP3158800007,2009,no_carbon_data
+JP3160400002,2009,no_carbon_data
+JP3162600005,2009,no_carbon_data
+JP3164630000,2009,no_carbon_data
+JP3164720009,2009,stale_prices
+JP3164800009,2009,no_carbon_data
+JP3165600002,2009,no_carbon_data
+JP3166000004,2009,no_carbon_data
+JP3167500002,2009,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2009,no_carbon_data
+JP3173400007,2009,no_carbon_data
+JP3188220002,2009,insufficient_history(0mo) | no_carbon_data
+JP3190000004,2009,no_carbon_data
+JP3194000000,2009,no_carbon_data
+JP3196000008,2009,no_carbon_data
+JP3197600004,2009,no_carbon_data
+JP3197800000,2009,no_carbon_data
+JP3198900007,2009,no_carbon_data
+JP3201200007,2009,no_carbon_data
+JP3203500008,2009,no_carbon_data
+JP3205800000,2009,no_carbon_data
+JP3209000003,2009,no_carbon_data
+JP3215800008,2009,no_carbon_data
+JP3218900003,2009,stale_prices | no_carbon_data
+JP3219000001,2009,no_carbon_data
+JP3223800008,2009,no_carbon_data
+JP3224200000,2009,stale_prices
+JP3229400001,2009,no_carbon_data
+JP3236200006,2009,no_carbon_data
+JP3240400006,2009,no_carbon_data
+JP3242800005,2009,no_carbon_data
+JP3243600008,2009,no_carbon_data
+JP3246400000,2009,no_carbon_data
+JP3249600002,2009,no_carbon_data
+JP3260800002,2009,no_carbon_data
+JP3263000006,2009,no_carbon_data
+JP3266400005,2009,no_carbon_data
+JP3268950007,2009,no_carbon_data
+JP3269600007,2009,no_carbon_data
+JP3270000007,2009,no_carbon_data
+JP3271400008,2009,no_carbon_data
+JP3274400005,2009,no_carbon_data
+JP3276400003,2009,no_carbon_data
+JP3277800003,2009,no_carbon_data
+JP3278600006,2009,no_carbon_data
+JP3280200001,2009,no_carbon_data
+JP3283650004,2009,no_carbon_data
+JP3289800009,2009,no_carbon_data
+JP3292200007,2009,no_carbon_data
+JP3293200006,2009,no_carbon_data
+JP3294460005,2009,stale_prices | no_carbon_data
+JP3300200007,2009,no_carbon_data
+JP3305530002,2009,no_carbon_data
+JP3305800009,2009,no_carbon_data
+JP3305990008,2009,insufficient_history(0mo) | no_carbon_data
+JP3322930003,2009,no_carbon_data
+JP3326410002,2009,no_carbon_data
+JP3336000009,2009,no_carbon_data
+JP3336600006,2009,no_carbon_data
+JP3347200002,2009,no_carbon_data
+JP3351100007,2009,stale_prices | no_carbon_data
+JP3351500008,2009,no_carbon_data
+JP3351600006,2009,no_carbon_data
+JP3352000008,2009,no_carbon_data
+JP3352400000,2009,no_carbon_data
+JP3358000002,2009,no_carbon_data
+JP3358200008,2009,no_carbon_data
+JP3358800005,2009,no_carbon_data
+JP3362700001,2009,no_carbon_data
+JP3368000000,2009,no_carbon_data
+JP3375800004,2009,no_carbon_data
+JP3381000003,2009,no_carbon_data
+JP3385980002,2009,no_carbon_data
+JP3386030005,2009,no_carbon_data
+JP3388200002,2009,no_carbon_data
+JP3389900006,2009,no_carbon_data
+JP3396350005,2009,stale_prices | no_carbon_data
+JP3397200001,2009,no_carbon_data
+JP3398000004,2009,stale_prices | no_carbon_data
+JP3399400005,2009,no_carbon_data
+JP3400900001,2009,no_carbon_data
+JP3402600005,2009,no_carbon_data
+JP3404200002,2009,no_carbon_data
+JP3404600003,2009,no_carbon_data
+JP3407200009,2009,no_carbon_data
+JP3407400005,2009,no_carbon_data
+JP3409000001,2009,no_carbon_data
+JP3411000007,2009,no_carbon_data
+JP3414750004,2009,no_carbon_data
+JP3415400005,2009,no_carbon_data
+JP3419050004,2009,no_carbon_data
+JP3420600003,2009,no_carbon_data
+JP3421100003,2009,no_carbon_data
+JP3421800008,2009,no_carbon_data
+JP3425000001,2009,no_carbon_data
+JP3436100006,2009,no_carbon_data
+JP3436120004,2009,stale_prices | no_carbon_data
+JP3456000003,2009,no_carbon_data
+JP3459600007,2009,no_carbon_data
+JP3475350009,2009,no_carbon_data
+JP3481800005,2009,no_carbon_data
+JP3485800001,2009,no_carbon_data
+JP3486800000,2009,stale_prices | no_carbon_data
+JP3491000000,2009,no_carbon_data
+JP3493400000,2009,no_carbon_data
+JP3493800001,2009,no_carbon_data
+JP3494600004,2009,no_carbon_data
+JP3495000006,2009,no_carbon_data
+JP3496400007,2009,no_carbon_data
+JP3499800005,2009,no_carbon_data
+JP3500610005,2009,stale_prices | no_carbon_data
+JP3505000004,2009,no_carbon_data
+JP3511800009,2009,no_carbon_data
+JP3519400000,2009,no_carbon_data
+JP3522200009,2009,no_carbon_data
+JP3528600004,2009,no_carbon_data
+JP3535800001,2009,stale_prices | no_carbon_data
+JP3538800008,2009,no_carbon_data
+JP3539250005,2009,stale_prices | no_carbon_data
+JP3544000007,2009,no_carbon_data
+JP3546800008,2009,no_carbon_data
+JP3548610009,2009,no_carbon_data
+JP3549600009,2009,no_carbon_data
+JP3551500006,2009,no_carbon_data
+JP3560800009,2009,no_carbon_data
+JP3571400005,2009,no_carbon_data
+JP3574200006,2009,no_carbon_data
+JP3579800008,2009,no_carbon_data
+JP3582600007,2009,no_carbon_data
+JP3585800000,2009,no_carbon_data
+JP3588600001,2009,no_carbon_data
+JP3592200004,2009,no_carbon_data
+JP3597800006,2009,no_carbon_data
+JP3598600009,2009,no_carbon_data
+JP3599000001,2009,no_carbon_data
+JP3600200004,2009,no_carbon_data
+JP3605400005,2009,no_carbon_data
+JP3613000003,2009,no_carbon_data
+JP3619800000,2009,no_carbon_data
+JP3621000003,2009,no_carbon_data
+JP3625000009,2009,no_carbon_data
+JP3626800001,2009,no_carbon_data
+JP3629000005,2009,no_carbon_data
+JP3634200004,2009,no_carbon_data
+JP3635000007,2009,no_carbon_data
+JP3635400009,2009,no_carbon_data
+JP3637300009,2009,no_carbon_data
+JP3657400002,2009,no_carbon_data
+JP3658850007,2009,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2009,no_carbon_data
+JP3663900003,2009,no_carbon_data
+JP3665200006,2009,no_carbon_data
+JP3670800006,2009,no_carbon_data
+JP3672400003,2009,no_carbon_data
+JP3675600005,2009,no_carbon_data
+JP3676800000,2009,no_carbon_data
+JP3678000005,2009,no_carbon_data
+JP3684000007,2009,no_carbon_data
+JP3684400009,2009,no_carbon_data
+JP3689500001,2009,no_carbon_data
+JP3695200000,2009,stale_prices | no_carbon_data
+JP3711200000,2009,stale_prices | no_carbon_data
+JP3718800000,2009,no_carbon_data
+JP3720800006,2009,no_carbon_data
+JP3721400004,2009,no_carbon_data
+JP3726200003,2009,no_carbon_data
+JP3726800000,2009,no_carbon_data
+JP3729000004,2009,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2009,no_carbon_data
+JP3733000008,2009,no_carbon_data
+JP3733400000,2009,no_carbon_data
+JP3734800000,2009,no_carbon_data
+JP3735400008,2009,stale_prices
+JP3738600000,2009,no_carbon_data
+JP3742600004,2009,no_carbon_data
+JP3753000003,2009,no_carbon_data
+JP3756100008,2009,no_carbon_data
+JP3756600007,2009,no_carbon_data
+JP3762600009,2009,no_carbon_data
+JP3762800005,2009,no_carbon_data
+JP3765400001,2009,no_carbon_data
+JP3766550002,2009,stale_prices | no_carbon_data
+JP3768600003,2009,stale_prices | no_carbon_data
+JP3769000005,2009,stale_prices
+JP3771800004,2009,no_carbon_data
+JP3774200004,2009,no_carbon_data
+JP3778630008,2009,no_carbon_data
+JP3780100008,2009,no_carbon_data
+JP3783420007,2009,stale_prices | no_carbon_data
+JP3786200000,2009,no_carbon_data
+JP3787000003,2009,no_carbon_data
+JP3788600009,2009,no_carbon_data
+JP3789000001,2009,no_carbon_data
+JP3791200003,2009,stale_prices | no_carbon_data
+JP3792600003,2009,no_carbon_data
+JP3796150005,2009,no_carbon_data
+JP3799000009,2009,no_carbon_data
+JP3802300008,2009,no_carbon_data
+JP3802400006,2009,no_carbon_data
+JP3811000003,2009,no_carbon_data
+JP3814000000,2009,no_carbon_data
+JP3814800003,2009,no_carbon_data
+JP3818000006,2009,no_carbon_data
+JP3820000002,2009,no_carbon_data
+JP3826800009,2009,no_carbon_data
+JP3827200001,2009,no_carbon_data
+JP3830000000,2009,no_carbon_data
+JP3830800003,2009,no_carbon_data
+JP3834800009,2009,no_carbon_data
+JP3837800006,2009,no_carbon_data
+JP3841800000,2009,no_carbon_data
+JP3842400008,2009,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2009,no_carbon_data
+JP3850200001,2009,no_carbon_data
+JP3862400003,2009,no_carbon_data
+JP3863800003,2009,no_carbon_data
+JP3866800000,2009,no_carbon_data
+JP3868400007,2009,no_carbon_data
+JP3869010003,2009,stale_prices | no_carbon_data
+JP3870000001,2009,no_carbon_data
+JP3870400003,2009,no_carbon_data
+JP3877600001,2009,stale_prices | no_carbon_data
+JP3885400006,2009,no_carbon_data
+JP3885780001,2009,stale_prices
+JP3888300005,2009,no_carbon_data
+JP3888400003,2009,no_carbon_data
+JP3890310000,2009,no_carbon_data
+JP3890350006,2009,no_carbon_data
+JP3891600003,2009,no_carbon_data
+JP3892100003,2009,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2009,no_carbon_data
+JP3893600001,2009,no_carbon_data
+JP3894900004,2009,no_carbon_data
+JP3896800004,2009,no_carbon_data
+JP3899600005,2009,no_carbon_data
+JP3899800001,2009,insufficient_history(2mo) | no_carbon_data
+JP3900000005,2009,no_carbon_data
+JP3901200000,2009,stale_prices | no_carbon_data
+JP3902000003,2009,no_carbon_data
+JP3902400005,2009,no_carbon_data
+JP3903000002,2009,no_carbon_data
+JP3906000009,2009,no_carbon_data
+JP3919800007,2009,no_carbon_data
+JP3931600005,2009,no_carbon_data
+JP3933800009,2009,no_carbon_data
+JP3935600001,2009,no_carbon_data
+JP3940000007,2009,no_carbon_data
+JP3940400009,2009,no_carbon_data
+JP3942400007,2009,no_carbon_data
+JP3942600002,2009,no_carbon_data
+JP3942800008,2009,no_carbon_data
+JP3944130008,2009,stale_prices | no_carbon_data
+JP3951200009,2009,stale_prices | no_carbon_data
+JP3951600000,2009,no_carbon_data
+JP3955000009,2009,no_carbon_data
+JP3967200001,2009,stale_prices | no_carbon_data
+JP3973400009,2009,no_carbon_data
+JP3977400005,2009,no_carbon_data
+JP3982100004,2009,no_carbon_data
+JP3982800009,2009,no_carbon_data
+JP3992400006,2009,no_carbon_data
+KYG0535Q1331,2009,no_carbon_data
+KYG2108Y1052,2009,no_carbon_data
+KYG210961051,2009,no_carbon_data
+KYG217651051,2009,no_carbon_data
+KYG525621408,2009,no_carbon_data
+KYG5427W1309,2009,no_carbon_data
+KYG548561284,2009,no_carbon_data
+KYG9431R1039,2009,insufficient_history(21mo) | no_carbon_data
+MU0117U00026,2009,no_carbon_data
+NZAIRE0001S2,2009,no_carbon_data
+NZFBUE0001S0,2009,no_carbon_data
+NZSKCE0001S2,2009,no_carbon_data
+SG0531000230,2009,no_carbon_data
+SG1B51001017,2009,no_carbon_data
+SG1F60858221,2009,no_carbon_data
+SGXE34184239,2009,no_carbon_data
+SG1J26887955,2009,no_carbon_data
+SG1L01001701,2009,no_carbon_data
+SG1M31001969,2009,no_carbon_data
+SG1M51904654,2009,no_carbon_data
+SG1M77906915,2009,no_carbon_data
+SG1N31909426,2009,no_carbon_data
+SG1P66918738,2009,no_carbon_data
+SG1R50925390,2009,no_carbon_data
+SG1S04926220,2009,no_carbon_data
+SG1S76928401,2009,no_carbon_data
+SG1S83002349,2009,no_carbon_data
+SG1T58930911,2009,no_carbon_data
+SG1T75931496,2009,no_carbon_data
+SG1V61937297,2009,no_carbon_data
+SG2B80958517,2009,no_carbon_data
+SG9999000020,2009,no_carbon_data
+SG9999003735,2009,no_carbon_data
+SGXE21576413,2009,no_carbon_data
+SGXE65760014,2009,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2009,no_carbon_data
+AU000000ABC7,2010,no_carbon_data
+AU000000ALL7,2010,no_carbon_data
+AU000000ANN9,2010,no_carbon_data
+AU000000BEN6,2010,no_carbon_data
+AU000000BOQ8,2010,no_carbon_data
+AU000000BPT9,2010,no_carbon_data
+AU000000BSL0,2010,no_carbon_data
+AU000000BWP3,2010,no_carbon_data
+AU000000CGF5,2010,no_carbon_data
+AU000000COH5,2010,no_carbon_data
+AU000000CPU5,2010,no_carbon_data
+AU000000CWY3,2010,no_carbon_data
+AU000000ELD6,2010,no_carbon_data
+AU000000FLT9,2010,no_carbon_data
+AU000000GMG2,2010,no_carbon_data
+AU000000GWA4,2010,no_carbon_data
+AU000000HIL8,2010,no_carbon_data
+AU000000HVN7,2010,no_carbon_data
+AU000000IFL2,2010,no_carbon_data
+AU000000ILU1,2010,no_carbon_data
+AU000000IRE2,2010,no_carbon_data
+AU000000JBH7,2010,no_carbon_data
+AU000000MGX7,2010,stale_prices | no_carbon_data
+AU000000MND5,2010,no_carbon_data
+AU000000MQG1,2010,no_carbon_data
+AU000000PPT9,2010,no_carbon_data
+AU000000RHC8,2010,stale_prices | no_carbon_data
+AU000000SBM8,2010,no_carbon_data
+AU000000SDG6,2010,no_carbon_data
+AU000000SEK6,2010,no_carbon_data
+AU000000SHL7,2010,no_carbon_data
+AU000000SUN6,2010,no_carbon_data
+AU000000SWM4,2010,no_carbon_data
+AU000000SXL4,2010,no_carbon_data
+AU000000TAH8,2010,no_carbon_data
+AU000000WES1,2010,no_carbon_data
+AU000000WOR2,2010,no_carbon_data
+AU0000032187,2010,no_carbon_data
+AU0000033359,2010,no_carbon_data
+BMG2108M2182,2010,no_carbon_data
+BMG2178K1009,2010,no_carbon_data
+BMG2442N1048,2010,no_carbon_data
+BMG2624N1535,2010,no_carbon_data
+BMG4600H1198,2010,no_carbon_data
+BMG4639H1227,2010,stale_prices | no_carbon_data
+BMG507361001,2010,no_carbon_data
+BMG524401079,2010,no_carbon_data
+BMG5320C1082,2010,no_carbon_data
+BMG668971101,2010,no_carbon_data
+BMG677491539,2010,no_carbon_data
+BMG684371393,2010,no_carbon_data
+BMG8403G1033,2010,no_carbon_data
+BMG988031446,2010,no_carbon_data
+HK0000049939,2010,no_carbon_data
+HK0000055878,2010,no_carbon_data
+HK0000139300,2010,no_carbon_data
+HK0000592854,2010,no_carbon_data
+HK0000608585,2010,no_carbon_data
+HK0000745908,2010,no_carbon_data
+HK0003000038,2010,no_carbon_data
+HK0004000045,2010,no_carbon_data
+HK0008011667,2010,no_carbon_data
+HK0010000088,2010,no_carbon_data
+HK0012000102,2010,no_carbon_data
+HK0014000126,2010,no_carbon_data
+HK0016000132,2010,no_carbon_data
+HK0023000190,2010,no_carbon_data
+HK0083000502,2010,no_carbon_data
+HK0101000591,2010,no_carbon_data
+HK0144000764,2010,no_carbon_data
+HK0165000859,2010,no_carbon_data
+HK0200030994,2010,no_carbon_data
+HK0242001243,2010,no_carbon_data
+HK0270001396,2010,no_carbon_data
+HK0291001490,2010,no_carbon_data
+HK0308001558,2010,no_carbon_data
+HK0363006039,2010,no_carbon_data
+HK0392044647,2010,no_carbon_data
+HK0440001847,2010,no_carbon_data
+HK0688002218,2010,no_carbon_data
+HK0823032773,2010,no_carbon_data
+HK0836012952,2010,no_carbon_data
+HK2380027329,2010,no_carbon_data
+HK2388011192,2010,no_carbon_data
+JP3027670003,2010,no_carbon_data
+JP3027680002,2010,no_carbon_data
+JP3039710003,2010,no_carbon_data
+JP3040890000,2010,no_carbon_data
+JP3102000001,2010,no_carbon_data
+JP3108600002,2010,no_carbon_data
+JP3111200006,2010,no_carbon_data
+JP3112000009,2010,no_carbon_data
+JP3122800000,2010,no_carbon_data
+JP3125800007,2010,no_carbon_data
+JP3126340003,2010,no_carbon_data
+JP3131400008,2010,no_carbon_data
+JP3131430005,2010,no_carbon_data
+JP3134800006,2010,no_carbon_data
+JP3137200006,2010,no_carbon_data
+JP3143000002,2010,no_carbon_data
+JP3143600009,2010,no_carbon_data
+JP3143900003,2010,stale_prices | no_carbon_data
+JP3152740001,2010,no_carbon_data
+JP3156400008,2010,no_carbon_data
+JP3160400002,2010,no_carbon_data
+JP3162600005,2010,no_carbon_data
+JP3164630000,2010,no_carbon_data
+JP3164720009,2010,stale_prices
+JP3167500002,2010,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2010,no_carbon_data
+JP3173400007,2010,no_carbon_data
+JP3174410005,2010,no_carbon_data
+JP3188220002,2010,insufficient_history(0mo) | no_carbon_data
+JP3194000000,2010,no_carbon_data
+JP3196000008,2010,no_carbon_data
+JP3197600004,2010,no_carbon_data
+JP3198900007,2010,no_carbon_data
+JP3200450009,2010,no_carbon_data
+JP3203500008,2010,no_carbon_data
+JP3215800008,2010,no_carbon_data
+JP3218900003,2010,stale_prices | no_carbon_data
+JP3219000001,2010,no_carbon_data
+JP3223800008,2010,no_carbon_data
+JP3224200000,2010,stale_prices
+JP3228600007,2010,no_carbon_data
+JP3229400001,2010,no_carbon_data
+JP3236200006,2010,no_carbon_data
+JP3240400006,2010,no_carbon_data
+JP3242800005,2010,no_carbon_data
+JP3243600008,2010,no_carbon_data
+JP3246400000,2010,no_carbon_data
+JP3249600002,2010,no_carbon_data
+JP3263000006,2010,no_carbon_data
+JP3268950007,2010,no_carbon_data
+JP3269600007,2010,no_carbon_data
+JP3270000007,2010,no_carbon_data
+JP3271400008,2010,no_carbon_data
+JP3274400005,2010,no_carbon_data
+JP3276400003,2010,no_carbon_data
+JP3277800003,2010,no_carbon_data
+JP3278600006,2010,no_carbon_data
+JP3280200001,2010,no_carbon_data
+JP3283650004,2010,no_carbon_data
+JP3292200007,2010,no_carbon_data
+JP3293200006,2010,no_carbon_data
+JP3294460005,2010,stale_prices
+JP3300200007,2010,no_carbon_data
+JP3305530002,2010,no_carbon_data
+JP3305800009,2010,no_carbon_data
+JP3305990008,2010,insufficient_history(0mo) | no_carbon_data
+JP3322930003,2010,no_carbon_data
+JP3326410002,2010,no_carbon_data
+JP3336000009,2010,no_carbon_data
+JP3336600006,2010,no_carbon_data
+JP3347200002,2010,no_carbon_data
+JP3350800003,2010,no_carbon_data
+JP3351100007,2010,stale_prices | no_carbon_data
+JP3351500008,2010,no_carbon_data
+JP3352000008,2010,no_carbon_data
+JP3352400000,2010,no_carbon_data
+JP3358000002,2010,no_carbon_data
+JP3358200008,2010,no_carbon_data
+JP3368000000,2010,no_carbon_data
+JP3375800004,2010,no_carbon_data
+JP3381000003,2010,no_carbon_data
+JP3385980002,2010,no_carbon_data
+JP3386030005,2010,no_carbon_data
+JP3388200002,2010,no_carbon_data
+JP3389900006,2010,no_carbon_data
+JP3396350005,2010,stale_prices | no_carbon_data
+JP3397200001,2010,no_carbon_data
+JP3398000004,2010,stale_prices | no_carbon_data
+JP3399400005,2010,no_carbon_data
+JP3400900001,2010,no_carbon_data
+JP3404200002,2010,no_carbon_data
+JP3404600003,2010,no_carbon_data
+JP3407200009,2010,no_carbon_data
+JP3409000001,2010,no_carbon_data
+JP3411000007,2010,no_carbon_data
+JP3414750004,2010,no_carbon_data
+JP3415400005,2010,no_carbon_data
+JP3419050004,2010,no_carbon_data
+JP3421800008,2010,no_carbon_data
+JP3425000001,2010,no_carbon_data
+JP3436100006,2010,no_carbon_data
+JP3436120004,2010,stale_prices | no_carbon_data
+JP3456000003,2010,no_carbon_data
+JP3459600007,2010,no_carbon_data
+JP3485800001,2010,no_carbon_data
+JP3486800000,2010,stale_prices | no_carbon_data
+JP3493400000,2010,no_carbon_data
+JP3494600004,2010,no_carbon_data
+JP3495000006,2010,no_carbon_data
+JP3499800005,2010,no_carbon_data
+JP3500610005,2010,stale_prices | no_carbon_data
+JP3511800009,2010,no_carbon_data
+JP3519400000,2010,no_carbon_data
+JP3522200009,2010,no_carbon_data
+JP3526600006,2010,no_carbon_data
+JP3528600004,2010,no_carbon_data
+JP3535800001,2010,stale_prices | no_carbon_data
+JP3538800008,2010,no_carbon_data
+JP3539250005,2010,stale_prices | no_carbon_data
+JP3546800008,2010,no_carbon_data
+JP3548610009,2010,no_carbon_data
+JP3549600009,2010,no_carbon_data
+JP3551500006,2010,no_carbon_data
+JP3560800009,2010,no_carbon_data
+JP3573000001,2010,no_carbon_data
+JP3574200006,2010,no_carbon_data
+JP3579800008,2010,no_carbon_data
+JP3582600007,2010,no_carbon_data
+JP3585800000,2010,no_carbon_data
+JP3588600001,2010,no_carbon_data
+JP3597800006,2010,no_carbon_data
+JP3598600009,2010,no_carbon_data
+JP3599000001,2010,no_carbon_data
+JP3600200004,2010,no_carbon_data
+JP3605400005,2010,no_carbon_data
+JP3613000003,2010,no_carbon_data
+JP3625000009,2010,no_carbon_data
+JP3634200004,2010,no_carbon_data
+JP3634600005,2010,no_carbon_data
+JP3635000007,2010,no_carbon_data
+JP3635400009,2010,no_carbon_data
+JP3637300009,2010,no_carbon_data
+JP3658850007,2010,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2010,no_carbon_data
+JP3663900003,2010,no_carbon_data
+JP3665200006,2010,no_carbon_data
+JP3670800006,2010,no_carbon_data
+JP3672400003,2010,no_carbon_data
+JP3675600005,2010,no_carbon_data
+JP3676800000,2010,no_carbon_data
+JP3684000007,2010,no_carbon_data
+JP3684400009,2010,no_carbon_data
+JP3689500001,2010,no_carbon_data
+JP3695200000,2010,stale_prices | no_carbon_data
+JP3711200000,2010,stale_prices | no_carbon_data
+JP3711600001,2010,no_carbon_data
+JP3718800000,2010,no_carbon_data
+JP3721400004,2010,no_carbon_data
+JP3726200003,2010,no_carbon_data
+JP3729000004,2010,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2010,no_carbon_data
+JP3733400000,2010,no_carbon_data
+JP3735400008,2010,stale_prices
+JP3738600000,2010,no_carbon_data
+JP3742600004,2010,no_carbon_data
+JP3756100008,2010,no_carbon_data
+JP3756600007,2010,no_carbon_data
+JP3762800005,2010,no_carbon_data
+JP3765400001,2010,no_carbon_data
+JP3766550002,2010,stale_prices | no_carbon_data
+JP3768600003,2010,stale_prices | no_carbon_data
+JP3769000005,2010,stale_prices
+JP3771800004,2010,no_carbon_data
+JP3774200004,2010,no_carbon_data
+JP3780100008,2010,no_carbon_data
+JP3783420007,2010,stale_prices | no_carbon_data
+JP3786200000,2010,no_carbon_data
+JP3789000001,2010,no_carbon_data
+JP3791200003,2010,stale_prices | no_carbon_data
+JP3792600003,2010,no_carbon_data
+JP3796150005,2010,no_carbon_data
+JP3799000009,2010,no_carbon_data
+JP3802300008,2010,no_carbon_data
+JP3802400006,2010,no_carbon_data
+JP3811000003,2010,no_carbon_data
+JP3814800003,2010,no_carbon_data
+JP3826800009,2010,no_carbon_data
+JP3827200001,2010,no_carbon_data
+JP3830000000,2010,no_carbon_data
+JP3830800003,2010,no_carbon_data
+JP3834800009,2010,no_carbon_data
+JP3837800006,2010,no_carbon_data
+JP3841800000,2010,no_carbon_data
+JP3842400008,2010,insufficient_history(0mo) | no_carbon_data
+JP3850200001,2010,no_carbon_data
+JP3862400003,2010,no_carbon_data
+JP3863800003,2010,no_carbon_data
+JP3869010003,2010,stale_prices | no_carbon_data
+JP3870400003,2010,no_carbon_data
+JP3877600001,2010,stale_prices | no_carbon_data
+JP3885400006,2010,no_carbon_data
+JP3885780001,2010,stale_prices
+JP3888300005,2010,no_carbon_data
+JP3888400003,2010,no_carbon_data
+JP3890310000,2010,no_carbon_data
+JP3890350006,2010,no_carbon_data
+JP3891600003,2010,no_carbon_data
+JP3892100003,2010,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2010,no_carbon_data
+JP3893600001,2010,no_carbon_data
+JP3894900004,2010,no_carbon_data
+JP3896800004,2010,no_carbon_data
+JP3899600005,2010,no_carbon_data
+JP3899800001,2010,insufficient_history(2mo) | no_carbon_data
+JP3901200000,2010,stale_prices | no_carbon_data
+JP3902000003,2010,no_carbon_data
+JP3906000009,2010,no_carbon_data
+JP3919800007,2010,no_carbon_data
+JP3931600005,2010,no_carbon_data
+JP3933800009,2010,no_carbon_data
+JP3935600001,2010,no_carbon_data
+JP3940000007,2010,no_carbon_data
+JP3940400009,2010,no_carbon_data
+JP3942600002,2010,no_carbon_data
+JP3942800008,2010,no_carbon_data
+JP3944130008,2010,stale_prices | no_carbon_data
+JP3951200009,2010,stale_prices | no_carbon_data
+JP3955000009,2010,no_carbon_data
+JP3967200001,2010,stale_prices | no_carbon_data
+JP3977400005,2010,no_carbon_data
+JP3982800009,2010,no_carbon_data
+JP3992400006,2010,no_carbon_data
+KYG0535Q1331,2010,no_carbon_data
+KYG2108Y1052,2010,no_carbon_data
+KYG210961051,2010,no_carbon_data
+KYG217651051,2010,no_carbon_data
+KYG525621408,2010,no_carbon_data
+KYG5427W1309,2010,no_carbon_data
+KYG548561284,2010,no_carbon_data
+KYG9431R1039,2010,insufficient_history(33mo) | no_carbon_data
+MU0117U00026,2010,no_carbon_data
+NZAIRE0001S2,2010,no_carbon_data
+NZSKCE0001S2,2010,no_carbon_data
+NZTELE0001S4,2010,no_carbon_data
+SG0531000230,2010,no_carbon_data
+SG1B51001017,2010,no_carbon_data
+SG1F60858221,2010,no_carbon_data
+SG1J26887955,2010,no_carbon_data
+SG1L01001701,2010,no_carbon_data
+SG1M31001969,2010,no_carbon_data
+SG1M51904654,2010,no_carbon_data
+SG1M77906915,2010,no_carbon_data
+SG1N31909426,2010,no_carbon_data
+SG1P66918738,2010,no_carbon_data
+SG1S04926220,2010,no_carbon_data
+SG1S76928401,2010,no_carbon_data
+SG1S83002349,2010,no_carbon_data
+SG1T58930911,2010,no_carbon_data
+SG1T75931496,2010,no_carbon_data
+SG1V61937297,2010,no_carbon_data
+SG2B80958517,2010,no_carbon_data
+SG9999003735,2010,no_carbon_data
+SGXE21576413,2010,no_carbon_data
+SGXE65760014,2010,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2010,no_carbon_data
+AU000000ABC7,2011,no_carbon_data
+AU000000ALL7,2011,no_carbon_data
+AU000000ANN9,2011,no_carbon_data
+AU000000ASX7,2011,no_carbon_data
+AU000000BEN6,2011,no_carbon_data
+AU000000BOQ8,2011,no_carbon_data
+AU000000BPT9,2011,no_carbon_data
+AU000000CGF5,2011,no_carbon_data
+AU000000COH5,2011,no_carbon_data
+AU000000CPU5,2011,no_carbon_data
+AU000000CQR9,2011,no_carbon_data
+AU000000CWY3,2011,no_carbon_data
+AU000000ELD6,2011,no_carbon_data
+AU000000FLT9,2011,no_carbon_data
+AU000000GMG2,2011,no_carbon_data
+AU000000HIL8,2011,no_carbon_data
+AU000000HVN7,2011,no_carbon_data
+AU000000IFL2,2011,no_carbon_data
+AU000000ILU1,2011,no_carbon_data
+AU000000IRE2,2011,no_carbon_data
+AU000000JBH7,2011,no_carbon_data
+AU000000MGX7,2011,stale_prices | no_carbon_data
+AU000000MND5,2011,no_carbon_data
+AU000000PPT9,2011,no_carbon_data
+AU000000RHC8,2011,stale_prices | no_carbon_data
+AU000000SBM8,2011,no_carbon_data
+AU000000SDG6,2011,no_carbon_data
+AU000000SEK6,2011,no_carbon_data
+AU000000SIG5,2011,no_carbon_data
+AU000000SWM4,2011,no_carbon_data
+AU000000SXL4,2011,no_carbon_data
+AU0000032187,2011,no_carbon_data
+AU0000033359,2011,no_carbon_data
+BMG2108M2182,2011,no_carbon_data
+BMG2178K1009,2011,no_carbon_data
+BMG2442N1048,2011,no_carbon_data
+BMG2624N1535,2011,no_carbon_data
+BMG4600H1198,2011,no_carbon_data
+BMG4639H1227,2011,stale_prices | no_carbon_data
+BMG507361001,2011,no_carbon_data
+BMG5320C1082,2011,no_carbon_data
+BMG668971101,2011,no_carbon_data
+BMG8063F1068,2011,no_carbon_data
+BMG8403G1033,2011,no_carbon_data
+BMG988031446,2011,no_carbon_data
+HK0000049939,2011,no_carbon_data
+HK0000055878,2011,no_carbon_data
+HK0000139300,2011,no_carbon_data
+HK0000592854,2011,no_carbon_data
+HK0000608585,2011,no_carbon_data
+HK0000745908,2011,no_carbon_data
+HK0003000038,2011,no_carbon_data
+HK0004000045,2011,no_carbon_data
+HK0008011667,2011,no_carbon_data
+HK0010000088,2011,no_carbon_data
+HK0012000102,2011,no_carbon_data
+HK0014000126,2011,no_carbon_data
+HK0016000132,2011,no_carbon_data
+HK0023000190,2011,no_carbon_data
+HK0083000502,2011,no_carbon_data
+HK0101000591,2011,no_carbon_data
+HK0144000764,2011,no_carbon_data
+HK0165000859,2011,no_carbon_data
+HK0200030994,2011,no_carbon_data
+HK0242001243,2011,no_carbon_data
+HK0270001396,2011,no_carbon_data
+HK0291001490,2011,no_carbon_data
+HK0308001558,2011,no_carbon_data
+HK0363006039,2011,no_carbon_data
+HK0392044647,2011,no_carbon_data
+HK0440001847,2011,no_carbon_data
+HK0688002218,2011,no_carbon_data
+HK0823032773,2011,no_carbon_data
+HK0836012952,2011,no_carbon_data
+HK2380027329,2011,no_carbon_data
+HK2388011192,2011,no_carbon_data
+JP3027670003,2011,no_carbon_data
+JP3027680002,2011,no_carbon_data
+JP3039710003,2011,no_carbon_data
+JP3040890000,2011,no_carbon_data
+JP3102000001,2011,no_carbon_data
+JP3108600002,2011,no_carbon_data
+JP3111200006,2011,no_carbon_data
+JP3122800000,2011,no_carbon_data
+JP3125800007,2011,no_carbon_data
+JP3126340003,2011,no_carbon_data
+JP3126400005,2011,no_carbon_data
+JP3131400008,2011,no_carbon_data
+JP3131430005,2011,no_carbon_data
+JP3134800006,2011,no_carbon_data
+JP3137200006,2011,no_carbon_data
+JP3143000002,2011,no_carbon_data
+JP3143600009,2011,no_carbon_data
+JP3143900003,2011,stale_prices | no_carbon_data
+JP3152740001,2011,no_carbon_data
+JP3156400008,2011,no_carbon_data
+JP3158800007,2011,no_carbon_data
+JP3160400002,2011,no_carbon_data
+JP3162600005,2011,no_carbon_data
+JP3164630000,2011,no_carbon_data
+JP3164720009,2011,stale_prices | no_carbon_data
+JP3166000004,2011,no_carbon_data
+JP3167500002,2011,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2011,no_carbon_data
+JP3173400007,2011,no_carbon_data
+JP3174410005,2011,no_carbon_data
+JP3188220002,2011,insufficient_history(12mo) | no_carbon_data
+JP3194000000,2011,no_carbon_data
+JP3196000008,2011,no_carbon_data
+JP3197600004,2011,no_carbon_data
+JP3197800000,2011,no_carbon_data
+JP3200450009,2011,no_carbon_data
+JP3203500008,2011,no_carbon_data
+JP3209000003,2011,no_carbon_data
+JP3215800008,2011,no_carbon_data
+JP3218900003,2011,stale_prices | no_carbon_data
+JP3219000001,2011,no_carbon_data
+JP3223800008,2011,no_carbon_data
+JP3224200000,2011,stale_prices | no_carbon_data
+JP3228600007,2011,no_carbon_data
+JP3229400001,2011,no_carbon_data
+JP3236200006,2011,no_carbon_data
+JP3240400006,2011,no_carbon_data
+JP3243600008,2011,no_carbon_data
+JP3246400000,2011,no_carbon_data
+JP3249600002,2011,no_carbon_data
+JP3256000005,2011,no_carbon_data
+JP3260800002,2011,no_carbon_data
+JP3263000006,2011,no_carbon_data
+JP3268950007,2011,no_carbon_data
+JP3269600007,2011,no_carbon_data
+JP3270000007,2011,no_carbon_data
+JP3271400008,2011,no_carbon_data
+JP3274400005,2011,no_carbon_data
+JP3276400003,2011,no_carbon_data
+JP3277800003,2011,no_carbon_data
+JP3278600006,2011,no_carbon_data
+JP3280200001,2011,no_carbon_data
+JP3283650004,2011,no_carbon_data
+JP3292200007,2011,no_carbon_data
+JP3293200006,2011,no_carbon_data
+JP3294460005,2011,stale_prices
+JP3300200007,2011,no_carbon_data
+JP3300600008,2011,no_carbon_data
+JP3305530002,2011,no_carbon_data
+JP3305800009,2011,no_carbon_data
+JP3305990008,2011,insufficient_history(0mo) | no_carbon_data
+JP3322930003,2011,no_carbon_data
+JP3326410002,2011,no_carbon_data
+JP3336000009,2011,no_carbon_data
+JP3336600006,2011,no_carbon_data
+JP3347200002,2011,no_carbon_data
+JP3350800003,2011,no_carbon_data
+JP3351100007,2011,stale_prices | no_carbon_data
+JP3351500008,2011,no_carbon_data
+JP3352000008,2011,no_carbon_data
+JP3352400000,2011,no_carbon_data
+JP3358000002,2011,no_carbon_data
+JP3358200008,2011,no_carbon_data
+JP3368000000,2011,no_carbon_data
+JP3375800004,2011,no_carbon_data
+JP3381000003,2011,no_carbon_data
+JP3385980002,2011,no_carbon_data
+JP3386030005,2011,no_carbon_data
+JP3388200002,2011,no_carbon_data
+JP3389900006,2011,no_carbon_data
+JP3396350005,2011,stale_prices | no_carbon_data
+JP3397200001,2011,no_carbon_data
+JP3398000004,2011,stale_prices | no_carbon_data
+JP3399400005,2011,no_carbon_data
+JP3400900001,2011,no_carbon_data
+JP3404200002,2011,no_carbon_data
+JP3404600003,2011,no_carbon_data
+JP3405400007,2011,no_carbon_data
+JP3407200009,2011,no_carbon_data
+JP3409000001,2011,no_carbon_data
+JP3411000007,2011,no_carbon_data
+JP3414750004,2011,no_carbon_data
+JP3415400005,2011,no_carbon_data
+JP3419050004,2011,no_carbon_data
+JP3421800008,2011,no_carbon_data
+JP3425000001,2011,no_carbon_data
+JP3436100006,2011,no_carbon_data
+JP3436120004,2011,stale_prices | no_carbon_data
+JP3456000003,2011,no_carbon_data
+JP3459600007,2011,no_carbon_data
+JP3485800001,2011,no_carbon_data
+JP3486800000,2011,stale_prices | no_carbon_data
+JP3491000000,2011,no_carbon_data
+JP3493400000,2011,no_carbon_data
+JP3493800001,2011,no_carbon_data
+JP3494600004,2011,no_carbon_data
+JP3495000006,2011,no_carbon_data
+JP3499800005,2011,no_carbon_data
+JP3500610005,2011,stale_prices | no_carbon_data
+JP3511800009,2011,no_carbon_data
+JP3519400000,2011,no_carbon_data
+JP3522200009,2011,no_carbon_data
+JP3526600006,2011,no_carbon_data
+JP3528600004,2011,no_carbon_data
+JP3535800001,2011,stale_prices
+JP3538800008,2011,no_carbon_data
+JP3539250005,2011,stale_prices | no_carbon_data
+JP3544000007,2011,no_carbon_data
+JP3546800008,2011,no_carbon_data
+JP3548610009,2011,no_carbon_data
+JP3549600009,2011,no_carbon_data
+JP3551500006,2011,no_carbon_data
+JP3551520004,2011,no_carbon_data
+JP3560800009,2011,no_carbon_data
+JP3574200006,2011,no_carbon_data
+JP3579800008,2011,no_carbon_data
+JP3582600007,2011,no_carbon_data
+JP3585800000,2011,no_carbon_data
+JP3588600001,2011,no_carbon_data
+JP3596200000,2011,no_carbon_data
+JP3597800006,2011,no_carbon_data
+JP3598600009,2011,no_carbon_data
+JP3599000001,2011,no_carbon_data
+JP3600200004,2011,no_carbon_data
+JP3605400005,2011,no_carbon_data
+JP3613000003,2011,no_carbon_data
+JP3619800000,2011,no_carbon_data
+JP3621000003,2011,no_carbon_data
+JP3625000009,2011,no_carbon_data
+JP3634200004,2011,no_carbon_data
+JP3634600005,2011,no_carbon_data
+JP3635000007,2011,no_carbon_data
+JP3635400009,2011,no_carbon_data
+JP3637300009,2011,no_carbon_data
+JP3638600001,2011,no_carbon_data
+JP3658850007,2011,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2011,no_carbon_data
+JP3663900003,2011,no_carbon_data
+JP3665200006,2011,no_carbon_data
+JP3667600005,2011,no_carbon_data
+JP3670800006,2011,no_carbon_data
+JP3675600005,2011,no_carbon_data
+JP3676800000,2011,no_carbon_data
+JP3684400009,2011,no_carbon_data
+JP3689500001,2011,no_carbon_data
+JP3695200000,2011,stale_prices | no_carbon_data
+JP3711200000,2011,stale_prices | no_carbon_data
+JP3711600001,2011,no_carbon_data
+JP3718800000,2011,no_carbon_data
+JP3721400004,2011,no_carbon_data
+JP3726200003,2011,no_carbon_data
+JP3729000004,2011,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2011,no_carbon_data
+JP3733000008,2011,no_carbon_data
+JP3733400000,2011,no_carbon_data
+JP3735400008,2011,stale_prices
+JP3738600000,2011,no_carbon_data
+JP3742600004,2011,no_carbon_data
+JP3756100008,2011,no_carbon_data
+JP3756600007,2011,no_carbon_data
+JP3762800005,2011,no_carbon_data
+JP3765400001,2011,no_carbon_data
+JP3766550002,2011,stale_prices | no_carbon_data
+JP3768600003,2011,stale_prices | no_carbon_data
+JP3769000005,2011,stale_prices
+JP3771800004,2011,no_carbon_data
+JP3774200004,2011,no_carbon_data
+JP3780100008,2011,no_carbon_data
+JP3783420007,2011,stale_prices | no_carbon_data
+JP3783600004,2011,no_carbon_data
+JP3786200000,2011,no_carbon_data
+JP3787000003,2011,no_carbon_data
+JP3789000001,2011,no_carbon_data
+JP3791200003,2011,stale_prices | no_carbon_data
+JP3792600003,2011,no_carbon_data
+JP3796150005,2011,no_carbon_data
+JP3799000009,2011,no_carbon_data
+JP3802300008,2011,no_carbon_data
+JP3802400006,2011,no_carbon_data
+JP3811000003,2011,no_carbon_data
+JP3814800003,2011,no_carbon_data
+JP3826800009,2011,no_carbon_data
+JP3827200001,2011,no_carbon_data
+JP3830000000,2011,no_carbon_data
+JP3830800003,2011,no_carbon_data
+JP3834800009,2011,no_carbon_data
+JP3837800006,2011,no_carbon_data
+JP3841800000,2011,no_carbon_data
+JP3842400008,2011,insufficient_history(0mo) | no_carbon_data
+JP3850200001,2011,no_carbon_data
+JP3862400003,2011,no_carbon_data
+JP3863800003,2011,no_carbon_data
+JP3869010003,2011,stale_prices | no_carbon_data
+JP3870000001,2011,no_carbon_data
+JP3870400003,2011,no_carbon_data
+JP3877600001,2011,stale_prices | no_carbon_data
+JP3885400006,2011,no_carbon_data
+JP3885780001,2011,stale_prices
+JP3888400003,2011,no_carbon_data
+JP3891600003,2011,no_carbon_data
+JP3892100003,2011,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2011,no_carbon_data
+JP3893600001,2011,no_carbon_data
+JP3894900004,2011,no_carbon_data
+JP3896800004,2011,no_carbon_data
+JP3899600005,2011,no_carbon_data
+JP3899800001,2011,insufficient_history(2mo) | no_carbon_data
+JP3901200000,2011,stale_prices | no_carbon_data
+JP3902000003,2011,no_carbon_data
+JP3906000009,2011,no_carbon_data
+JP3919800007,2011,no_carbon_data
+JP3931600005,2011,no_carbon_data
+JP3933800009,2011,no_carbon_data
+JP3935600001,2011,no_carbon_data
+JP3940000007,2011,no_carbon_data
+JP3940400009,2011,no_carbon_data
+JP3942600002,2011,no_carbon_data
+JP3942800008,2011,no_carbon_data
+JP3944130008,2011,stale_prices | no_carbon_data
+JP3951200009,2011,stale_prices | no_carbon_data
+JP3951600000,2011,no_carbon_data
+JP3955000009,2011,no_carbon_data
+JP3967200001,2011,stale_prices | no_carbon_data
+JP3977400005,2011,no_carbon_data
+JP3982800009,2011,no_carbon_data
+JP3992400006,2011,no_carbon_data
+KYG0535Q1331,2011,no_carbon_data
+KYG2108Y1052,2011,no_carbon_data
+KYG210961051,2011,no_carbon_data
+KYG217651051,2011,no_carbon_data
+KYG525621408,2011,no_carbon_data
+KYG5427W1309,2011,no_carbon_data
+KYG548561284,2011,no_carbon_data
+KYG9431R1039,2011,no_carbon_data
+MU0117U00026,2011,no_carbon_data
+NZAIRE0001S2,2011,no_carbon_data
+NZSKCE0001S2,2011,no_carbon_data
+NZTELE0001S4,2011,no_carbon_data
+SG0531000230,2011,no_carbon_data
+SG1B51001017,2011,no_carbon_data
+SG1F60858221,2011,no_carbon_data
+SG1L01001701,2011,no_carbon_data
+SG1M31001969,2011,no_carbon_data
+SG1M51904654,2011,no_carbon_data
+SG1M77906915,2011,no_carbon_data
+SG1N31909426,2011,no_carbon_data
+SG1P66918738,2011,no_carbon_data
+SG1S04926220,2011,no_carbon_data
+SG1S76928401,2011,no_carbon_data
+SG1S83002349,2011,no_carbon_data
+SG1T58930911,2011,no_carbon_data
+SG1T75931496,2011,no_carbon_data
+SG2B80958517,2011,no_carbon_data
+SG9999003735,2011,no_carbon_data
+SGXE21576413,2011,no_carbon_data
+SGXE65760014,2011,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2011,no_carbon_data
+AU000000ABC7,2012,no_carbon_data
+AU000000ALL7,2012,no_carbon_data
+AU000000ANN9,2012,no_carbon_data
+AU000000BOQ8,2012,no_carbon_data
+AU000000BPT9,2012,no_carbon_data
+AU000000CGF5,2012,no_carbon_data
+AU000000COH5,2012,no_carbon_data
+AU000000CPU5,2012,no_carbon_data
+AU000000CQR9,2012,no_carbon_data
+AU000000ELD6,2012,no_carbon_data
+AU000000FLT9,2012,no_carbon_data
+AU000000HIL8,2012,no_carbon_data
+AU000000HVN7,2012,no_carbon_data
+AU000000IFL2,2012,no_carbon_data
+AU000000ILU1,2012,no_carbon_data
+AU000000IRE2,2012,no_carbon_data
+AU000000JBH7,2012,no_carbon_data
+AU000000MAH3,2012,no_carbon_data
+AU000000MGX7,2012,stale_prices | no_carbon_data
+AU000000PPT9,2012,no_carbon_data
+AU000000RHC8,2012,stale_prices | no_carbon_data
+AU000000SDG6,2012,no_carbon_data
+AU000000SEK6,2012,no_carbon_data
+AU000000SIG5,2012,no_carbon_data
+AU000000SWM4,2012,no_carbon_data
+AU000000SXL4,2012,no_carbon_data
+AU000000TAH8,2012,no_carbon_data
+AU0000032187,2012,no_carbon_data
+AU0000033359,2012,no_carbon_data
+BMG2108M2182,2012,no_carbon_data
+BMG2178K1009,2012,no_carbon_data
+BMG2442N1048,2012,no_carbon_data
+BMG2624N1535,2012,no_carbon_data
+BMG4600H1198,2012,no_carbon_data
+BMG4639H1227,2012,stale_prices | no_carbon_data
+BMG507361001,2012,no_carbon_data
+BMG5320C1082,2012,no_carbon_data
+BMG668971101,2012,no_carbon_data
+BMG8403G1033,2012,no_carbon_data
+BMG988031446,2012,no_carbon_data
+HK0000049939,2012,no_carbon_data
+HK0000055878,2012,no_carbon_data
+HK0000139300,2012,no_carbon_data
+HK0000592854,2012,no_carbon_data
+HK0000608585,2012,no_carbon_data
+HK0000745908,2012,no_carbon_data
+HK0004000045,2012,no_carbon_data
+HK0008011667,2012,no_carbon_data
+HK0010000088,2012,no_carbon_data
+HK0014000126,2012,no_carbon_data
+HK0016000132,2012,no_carbon_data
+HK0023000190,2012,no_carbon_data
+HK0083000502,2012,no_carbon_data
+HK0101000591,2012,no_carbon_data
+HK0144000764,2012,no_carbon_data
+HK0165000859,2012,no_carbon_data
+HK0200030994,2012,no_carbon_data
+HK0242001243,2012,no_carbon_data
+HK0270001396,2012,no_carbon_data
+HK0291001490,2012,no_carbon_data
+HK0308001558,2012,no_carbon_data
+HK0363006039,2012,no_carbon_data
+HK0392044647,2012,no_carbon_data
+HK0440001847,2012,no_carbon_data
+HK0688002218,2012,no_carbon_data
+HK0836012952,2012,no_carbon_data
+HK2380027329,2012,no_carbon_data
+HK2388011192,2012,no_carbon_data
+JP3027670003,2012,no_carbon_data
+JP3027680002,2012,no_carbon_data
+JP3039710003,2012,no_carbon_data
+JP3040890000,2012,no_carbon_data
+JP3102000001,2012,no_carbon_data
+JP3108600002,2012,no_carbon_data
+JP3111200006,2012,no_carbon_data
+JP3122800000,2012,no_carbon_data
+JP3125800007,2012,no_carbon_data
+JP3126340003,2012,no_carbon_data
+JP3131400008,2012,no_carbon_data
+JP3131430005,2012,no_carbon_data
+JP3134800006,2012,no_carbon_data
+JP3137200006,2012,no_carbon_data
+JP3143000002,2012,no_carbon_data
+JP3143600009,2012,no_carbon_data
+JP3143900003,2012,stale_prices | no_carbon_data
+JP3152740001,2012,no_carbon_data
+JP3156400008,2012,no_carbon_data
+JP3158800007,2012,no_carbon_data
+JP3160400002,2012,no_carbon_data
+JP3162600005,2012,no_carbon_data
+JP3164630000,2012,no_carbon_data
+JP3164720009,2012,stale_prices | no_carbon_data
+JP3165600002,2012,no_carbon_data
+JP3166000004,2012,no_carbon_data
+JP3167500002,2012,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2012,no_carbon_data
+JP3173400007,2012,no_carbon_data
+JP3174410005,2012,no_carbon_data
+JP3180400008,2012,no_carbon_data
+JP3188220002,2012,insufficient_history(24mo) | no_carbon_data
+JP3194000000,2012,no_carbon_data
+JP3196000008,2012,no_carbon_data
+JP3197600004,2012,no_carbon_data
+JP3203500008,2012,no_carbon_data
+JP3215800008,2012,no_carbon_data
+JP3218900003,2012,stale_prices | no_carbon_data
+JP3219000001,2012,no_carbon_data
+JP3223800008,2012,no_carbon_data
+JP3224200000,2012,stale_prices
+JP3228600007,2012,no_carbon_data
+JP3229400001,2012,no_carbon_data
+JP3236200006,2012,no_carbon_data
+JP3240400006,2012,no_carbon_data
+JP3243600008,2012,no_carbon_data
+JP3246400000,2012,no_carbon_data
+JP3249600002,2012,no_carbon_data
+JP3256000005,2012,no_carbon_data
+JP3263000006,2012,no_carbon_data
+JP3268950007,2012,no_carbon_data
+JP3270000007,2012,no_carbon_data
+JP3271400008,2012,no_carbon_data
+JP3274400005,2012,no_carbon_data
+JP3276400003,2012,no_carbon_data
+JP3277800003,2012,no_carbon_data
+JP3278600006,2012,no_carbon_data
+JP3280200001,2012,no_carbon_data
+JP3283650004,2012,no_carbon_data
+JP3292200007,2012,no_carbon_data
+JP3294460005,2012,stale_prices
+JP3300200007,2012,no_carbon_data
+JP3300600008,2012,no_carbon_data
+JP3305530002,2012,no_carbon_data
+JP3305800009,2012,no_carbon_data
+JP3305990008,2012,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2012,no_carbon_data
+JP3322930003,2012,no_carbon_data
+JP3326410002,2012,no_carbon_data
+JP3336000009,2012,no_carbon_data
+JP3336600006,2012,no_carbon_data
+JP3347200002,2012,no_carbon_data
+JP3350800003,2012,no_carbon_data
+JP3351100007,2012,stale_prices | no_carbon_data
+JP3351500008,2012,no_carbon_data
+JP3352000008,2012,no_carbon_data
+JP3352400000,2012,no_carbon_data
+JP3358000002,2012,no_carbon_data
+JP3358200008,2012,no_carbon_data
+JP3358800005,2012,no_carbon_data
+JP3368000000,2012,no_carbon_data
+JP3375800004,2012,no_carbon_data
+JP3381000003,2012,no_carbon_data
+JP3386030005,2012,no_carbon_data
+JP3389900006,2012,no_carbon_data
+JP3396350005,2012,stale_prices | no_carbon_data
+JP3397200001,2012,no_carbon_data
+JP3398000004,2012,stale_prices | no_carbon_data
+JP3399400005,2012,no_carbon_data
+JP3400900001,2012,no_carbon_data
+JP3401400001,2012,no_carbon_data
+JP3404200002,2012,no_carbon_data
+JP3404600003,2012,no_carbon_data
+JP3405400007,2012,no_carbon_data
+JP3407200009,2012,no_carbon_data
+JP3409000001,2012,no_carbon_data
+JP3411000007,2012,no_carbon_data
+JP3414750004,2012,no_carbon_data
+JP3415400005,2012,no_carbon_data
+JP3419050004,2012,no_carbon_data
+JP3421800008,2012,no_carbon_data
+JP3425000001,2012,no_carbon_data
+JP3436100006,2012,no_carbon_data
+JP3436120004,2012,stale_prices | no_carbon_data
+JP3456000003,2012,no_carbon_data
+JP3459600007,2012,no_carbon_data
+JP3463000004,2012,no_carbon_data
+JP3485800001,2012,no_carbon_data
+JP3486800000,2012,stale_prices | no_carbon_data
+JP3491000000,2012,no_carbon_data
+JP3494600004,2012,no_carbon_data
+JP3495000006,2012,no_carbon_data
+JP3499800005,2012,no_carbon_data
+JP3500610005,2012,stale_prices | no_carbon_data
+JP3511800009,2012,no_carbon_data
+JP3522200009,2012,no_carbon_data
+JP3526600006,2012,no_carbon_data
+JP3528600004,2012,no_carbon_data
+JP3535800001,2012,stale_prices
+JP3538800008,2012,no_carbon_data
+JP3539250005,2012,stale_prices | no_carbon_data
+JP3544000007,2012,no_carbon_data
+JP3546800008,2012,no_carbon_data
+JP3548610009,2012,no_carbon_data
+JP3549600009,2012,no_carbon_data
+JP3560800009,2012,no_carbon_data
+JP3574200006,2012,no_carbon_data
+JP3579800008,2012,no_carbon_data
+JP3582600007,2012,no_carbon_data
+JP3585800000,2012,no_carbon_data
+JP3588600001,2012,no_carbon_data
+JP3597800006,2012,no_carbon_data
+JP3598600009,2012,no_carbon_data
+JP3599000001,2012,no_carbon_data
+JP3600200004,2012,no_carbon_data
+JP3605400005,2012,no_carbon_data
+JP3613000003,2012,no_carbon_data
+JP3625000009,2012,no_carbon_data
+JP3634200004,2012,no_carbon_data
+JP3635000007,2012,no_carbon_data
+JP3635400009,2012,no_carbon_data
+JP3637300009,2012,no_carbon_data
+JP3638600001,2012,no_carbon_data
+JP3658850007,2012,insufficient_history(0mo) | no_carbon_data
+JP3663900003,2012,no_carbon_data
+JP3665200006,2012,no_carbon_data
+JP3667600005,2012,no_carbon_data
+JP3670800006,2012,no_carbon_data
+JP3675600005,2012,no_carbon_data
+JP3676800000,2012,no_carbon_data
+JP3684400009,2012,no_carbon_data
+JP3689500001,2012,no_carbon_data
+JP3695200000,2012,stale_prices | no_carbon_data
+JP3711200000,2012,stale_prices | no_carbon_data
+JP3718800000,2012,no_carbon_data
+JP3721400004,2012,no_carbon_data
+JP3726200003,2012,no_carbon_data
+JP3729000004,2012,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2012,no_carbon_data
+JP3733000008,2012,no_carbon_data
+JP3733400000,2012,no_carbon_data
+JP3735400008,2012,stale_prices
+JP3742600004,2012,no_carbon_data
+JP3756100008,2012,no_carbon_data
+JP3756600007,2012,no_carbon_data
+JP3762600009,2012,no_carbon_data
+JP3762800005,2012,no_carbon_data
+JP3765400001,2012,no_carbon_data
+JP3766550002,2012,stale_prices | no_carbon_data
+JP3768600003,2012,stale_prices | no_carbon_data
+JP3769000005,2012,stale_prices
+JP3771800004,2012,no_carbon_data
+JP3774200004,2012,no_carbon_data
+JP3778630008,2012,no_carbon_data
+JP3780100008,2012,no_carbon_data
+JP3783420007,2012,stale_prices | no_carbon_data
+JP3783600004,2012,no_carbon_data
+JP3786200000,2012,no_carbon_data
+JP3787000003,2012,no_carbon_data
+JP3789000001,2012,no_carbon_data
+JP3791200003,2012,stale_prices | no_carbon_data
+JP3792600003,2012,no_carbon_data
+JP3796150005,2012,no_carbon_data
+JP3799000009,2012,no_carbon_data
+JP3802300008,2012,no_carbon_data
+JP3802400006,2012,no_carbon_data
+JP3811000003,2012,no_carbon_data
+JP3814800003,2012,no_carbon_data
+JP3826800009,2012,no_carbon_data
+JP3827200001,2012,no_carbon_data
+JP3830000000,2012,no_carbon_data
+JP3834800009,2012,no_carbon_data
+JP3837800006,2012,no_carbon_data
+JP3841800000,2012,no_carbon_data
+JP3842400008,2012,insufficient_history(0mo) | no_carbon_data
+JP3850200001,2012,no_carbon_data
+JP3862400003,2012,no_carbon_data
+JP3863800003,2012,no_carbon_data
+JP3868400007,2012,no_carbon_data
+JP3869010003,2012,stale_prices | no_carbon_data
+JP3870000001,2012,no_carbon_data
+JP3870400003,2012,no_carbon_data
+JP3877600001,2012,stale_prices | no_carbon_data
+JP3885400006,2012,no_carbon_data
+JP3885780001,2012,stale_prices
+JP3888400003,2012,no_carbon_data
+JP3891600003,2012,no_carbon_data
+JP3892100003,2012,insufficient_history(8mo) | stale_prices | no_carbon_data
+JP3893200000,2012,no_carbon_data
+JP3893600001,2012,no_carbon_data
+JP3894900004,2012,no_carbon_data
+JP3896800004,2012,no_carbon_data
+JP3899600005,2012,no_carbon_data
+JP3899800001,2012,insufficient_history(2mo) | no_carbon_data
+JP3901200000,2012,stale_prices | no_carbon_data
+JP3902000003,2012,no_carbon_data
+JP3906000009,2012,no_carbon_data
+JP3919800007,2012,no_carbon_data
+JP3931600005,2012,no_carbon_data
+JP3933800009,2012,no_carbon_data
+JP3935600001,2012,no_carbon_data
+JP3940400009,2012,no_carbon_data
+JP3942600002,2012,no_carbon_data
+JP3942800008,2012,no_carbon_data
+JP3944130008,2012,stale_prices | no_carbon_data
+JP3951200009,2012,stale_prices | no_carbon_data
+JP3951600000,2012,no_carbon_data
+JP3955000009,2012,no_carbon_data
+JP3967200001,2012,stale_prices | no_carbon_data
+JP3977400005,2012,no_carbon_data
+JP3982800009,2012,no_carbon_data
+JP3992400006,2012,no_carbon_data
+KYG0535Q1331,2012,no_carbon_data
+KYG2108Y1052,2012,no_carbon_data
+KYG210961051,2012,no_carbon_data
+KYG217651051,2012,no_carbon_data
+KYG525621408,2012,no_carbon_data
+KYG5427W1309,2012,no_carbon_data
+KYG548561284,2012,no_carbon_data
+KYG9431R1039,2012,no_carbon_data
+MU0117U00026,2012,no_carbon_data
+NZAIRE0001S2,2012,no_carbon_data
+NZSKCE0001S2,2012,no_carbon_data
+SG0531000230,2012,no_carbon_data
+SG1B51001017,2012,no_carbon_data
+SG1J26887955,2012,no_carbon_data
+SG1L01001701,2012,no_carbon_data
+SG1M31001969,2012,no_carbon_data
+SG1M51904654,2012,no_carbon_data
+SG1M77906915,2012,no_carbon_data
+SG1N31909426,2012,no_carbon_data
+SG1P66918738,2012,no_carbon_data
+SG1S04926220,2012,no_carbon_data
+SG1S76928401,2012,no_carbon_data
+SG1S83002349,2012,no_carbon_data
+SG1T58930911,2012,no_carbon_data
+SG1T75931496,2012,no_carbon_data
+SG2B80958517,2012,no_carbon_data
+SG9999003735,2012,no_carbon_data
+SGXE65760014,2012,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2012,no_carbon_data
+AU000000ABC7,2013,no_carbon_data
+AU000000ALL7,2013,no_carbon_data
+AU000000AMP6,2013,no_carbon_data
+AU000000ANN9,2013,no_carbon_data
+AU000000BOQ8,2013,no_carbon_data
+AU000000BPT9,2013,no_carbon_data
+AU000000CGF5,2013,no_carbon_data
+AU000000COH5,2013,no_carbon_data
+AU000000CPU5,2013,no_carbon_data
+AU000000CQR9,2013,no_carbon_data
+AU000000CSL8,2013,no_carbon_data
+AU000000ELD6,2013,no_carbon_data
+AU000000FLT9,2013,no_carbon_data
+AU000000GMG2,2013,no_carbon_data
+AU000000HIL8,2013,no_carbon_data
+AU000000HVN7,2013,no_carbon_data
+AU000000IFL2,2013,no_carbon_data
+AU000000IGO4,2013,no_carbon_data
+AU000000ILU1,2013,no_carbon_data
+AU000000IRE2,2013,no_carbon_data
+AU000000IVC8,2013,no_carbon_data
+AU000000JBH7,2013,no_carbon_data
+AU000000MAH3,2013,no_carbon_data
+AU000000MGX7,2013,stale_prices | no_carbon_data
+AU000000MND5,2013,no_carbon_data
+AU000000MTS0,2013,no_carbon_data
+AU000000NCM7,2013,no_carbon_data
+AU000000PPT9,2013,no_carbon_data
+AU000000RHC8,2013,stale_prices | no_carbon_data
+AU000000SBM8,2013,no_carbon_data
+AU000000SDG6,2013,no_carbon_data
+AU000000SEK6,2013,no_carbon_data
+AU000000SIG5,2013,no_carbon_data
+AU000000SWM4,2013,no_carbon_data
+AU000000SXL4,2013,no_carbon_data
+AU000000WES1,2013,no_carbon_data
+AU000000WOR2,2013,no_carbon_data
+AU0000032187,2013,no_carbon_data
+AU0000033359,2013,no_carbon_data
+BMG2108M2182,2013,no_carbon_data
+BMG2178K1009,2013,no_carbon_data
+BMG2624N1535,2013,no_carbon_data
+BMG4600H1198,2013,no_carbon_data
+BMG4639H1227,2013,stale_prices | no_carbon_data
+BMG507361001,2013,no_carbon_data
+BMG5320C1082,2013,no_carbon_data
+BMG668971101,2013,no_carbon_data
+BMG8063F1068,2013,no_carbon_data
+BMG8403G1033,2013,no_carbon_data
+BMG988031446,2013,no_carbon_data
+HK0000049939,2013,no_carbon_data
+HK0000055878,2013,no_carbon_data
+HK0000139300,2013,no_carbon_data
+HK0000592854,2013,no_carbon_data
+HK0000608585,2013,no_carbon_data
+HK0000745908,2013,no_carbon_data
+HK0002007356,2013,no_carbon_data
+HK0004000045,2013,no_carbon_data
+HK0006000050,2013,no_carbon_data
+HK0008011667,2013,no_carbon_data
+HK0014000126,2013,no_carbon_data
+HK0023000190,2013,no_carbon_data
+HK0083000502,2013,no_carbon_data
+HK0101000591,2013,no_carbon_data
+HK0144000764,2013,no_carbon_data
+HK0165000859,2013,no_carbon_data
+HK0242001243,2013,no_carbon_data
+HK0270001396,2013,no_carbon_data
+HK0291001490,2013,no_carbon_data
+HK0308001558,2013,no_carbon_data
+HK0363006039,2013,no_carbon_data
+HK0392044647,2013,no_carbon_data
+HK0440001847,2013,no_carbon_data
+HK0688002218,2013,no_carbon_data
+HK0836012952,2013,no_carbon_data
+HK2380027329,2013,no_carbon_data
+HK2388011192,2013,no_carbon_data
+JP3027670003,2013,no_carbon_data
+JP3039710003,2013,no_carbon_data
+JP3040890000,2013,no_carbon_data
+JP3102000001,2013,no_carbon_data
+JP3108600002,2013,no_carbon_data
+JP3111200006,2013,no_carbon_data
+JP3116000005,2013,no_carbon_data
+JP3122800000,2013,no_carbon_data
+JP3125800007,2013,no_carbon_data
+JP3126340003,2013,no_carbon_data
+JP3131400008,2013,no_carbon_data
+JP3131430005,2013,no_carbon_data
+JP3137200006,2013,no_carbon_data
+JP3143000002,2013,no_carbon_data
+JP3143600009,2013,no_carbon_data
+JP3143900003,2013,stale_prices | no_carbon_data
+JP3152740001,2013,no_carbon_data
+JP3156400008,2013,no_carbon_data
+JP3158800007,2013,no_carbon_data
+JP3160400002,2013,no_carbon_data
+JP3162600005,2013,no_carbon_data
+JP3164630000,2013,no_carbon_data
+JP3164720009,2013,stale_prices | no_carbon_data
+JP3166000004,2013,no_carbon_data
+JP3167500002,2013,insufficient_history(27mo) | no_carbon_data
+JP3172100004,2013,no_carbon_data
+JP3173400007,2013,no_carbon_data
+JP3174410005,2013,no_carbon_data
+JP3180400008,2013,no_carbon_data
+JP3188220002,2013,no_carbon_data
+JP3196000008,2013,no_carbon_data
+JP3198900007,2013,no_carbon_data
+JP3203500008,2013,no_carbon_data
+JP3215800008,2013,no_carbon_data
+JP3218900003,2013,stale_prices | no_carbon_data
+JP3219000001,2013,no_carbon_data
+JP3224200000,2013,stale_prices
+JP3228600007,2013,no_carbon_data
+JP3229400001,2013,no_carbon_data
+JP3236200006,2013,no_carbon_data
+JP3240400006,2013,no_carbon_data
+JP3243600008,2013,no_carbon_data
+JP3246400000,2013,no_carbon_data
+JP3249600002,2013,no_carbon_data
+JP3258000003,2013,no_carbon_data
+JP3263000006,2013,no_carbon_data
+JP3268950007,2013,no_carbon_data
+JP3270000007,2013,no_carbon_data
+JP3271400008,2013,no_carbon_data
+JP3274400005,2013,no_carbon_data
+JP3276400003,2013,no_carbon_data
+JP3277800003,2013,no_carbon_data
+JP3278600006,2013,no_carbon_data
+JP3280200001,2013,no_carbon_data
+JP3283650004,2013,no_carbon_data
+JP3292200007,2013,no_carbon_data
+JP3293200006,2013,no_carbon_data
+JP3294460005,2013,stale_prices
+JP3300200007,2013,no_carbon_data
+JP3305530002,2013,no_carbon_data
+JP3305800009,2013,no_carbon_data
+JP3305990008,2013,insufficient_history(0mo) | no_carbon_data
+JP3320800000,2013,no_carbon_data
+JP3326410002,2013,no_carbon_data
+JP3336000009,2013,no_carbon_data
+JP3336600006,2013,no_carbon_data
+JP3347200002,2013,no_carbon_data
+JP3350800003,2013,no_carbon_data
+JP3351100007,2013,stale_prices | no_carbon_data
+JP3351500008,2013,no_carbon_data
+JP3352000008,2013,no_carbon_data
+JP3352400000,2013,no_carbon_data
+JP3357200009,2013,no_carbon_data
+JP3358000002,2013,no_carbon_data
+JP3358200008,2013,no_carbon_data
+JP3381000003,2013,no_carbon_data
+JP3385980002,2013,no_carbon_data
+JP3386030005,2013,no_carbon_data
+JP3388200002,2013,no_carbon_data
+JP3389900006,2013,no_carbon_data
+JP3396350005,2013,stale_prices | no_carbon_data
+JP3397200001,2013,no_carbon_data
+JP3398000004,2013,stale_prices | no_carbon_data
+JP3399400005,2013,no_carbon_data
+JP3400900001,2013,no_carbon_data
+JP3401400001,2013,no_carbon_data
+JP3404200002,2013,no_carbon_data
+JP3404600003,2013,no_carbon_data
+JP3405400007,2013,no_carbon_data
+JP3407200009,2013,no_carbon_data
+JP3409000001,2013,no_carbon_data
+JP3411000007,2013,no_carbon_data
+JP3415400005,2013,no_carbon_data
+JP3419050004,2013,no_carbon_data
+JP3421800008,2013,no_carbon_data
+JP3425000001,2013,no_carbon_data
+JP3436100006,2013,no_carbon_data
+JP3436120004,2013,stale_prices | no_carbon_data
+JP3459600007,2013,no_carbon_data
+JP3463000004,2013,no_carbon_data
+JP3485800001,2013,no_carbon_data
+JP3486800000,2013,stale_prices | no_carbon_data
+JP3491000000,2013,no_carbon_data
+JP3493400000,2013,no_carbon_data
+JP3494600004,2013,no_carbon_data
+JP3495000006,2013,no_carbon_data
+JP3499800005,2013,no_carbon_data
+JP3500610005,2013,stale_prices | no_carbon_data
+JP3511800009,2013,no_carbon_data
+JP3519400000,2013,no_carbon_data
+JP3522200009,2013,no_carbon_data
+JP3526600006,2013,no_carbon_data
+JP3535800001,2013,stale_prices | no_carbon_data
+JP3538800008,2013,no_carbon_data
+JP3539250005,2013,stale_prices | no_carbon_data
+JP3546800008,2013,no_carbon_data
+JP3548610009,2013,no_carbon_data
+JP3549600009,2013,no_carbon_data
+JP3560800009,2013,no_carbon_data
+JP3573000001,2013,no_carbon_data
+JP3574200006,2013,no_carbon_data
+JP3579800008,2013,no_carbon_data
+JP3585800000,2013,no_carbon_data
+JP3588600001,2013,no_carbon_data
+JP3597800006,2013,no_carbon_data
+JP3598600009,2013,no_carbon_data
+JP3599000001,2013,no_carbon_data
+JP3600200004,2013,no_carbon_data
+JP3605400005,2013,no_carbon_data
+JP3613000003,2013,no_carbon_data
+JP3625000009,2013,no_carbon_data
+JP3633400001,2013,no_carbon_data
+JP3634200004,2013,no_carbon_data
+JP3635000007,2013,no_carbon_data
+JP3635400009,2013,no_carbon_data
+JP3637300009,2013,no_carbon_data
+JP3658850007,2013,insufficient_history(0mo) | no_carbon_data
+JP3659000008,2013,no_carbon_data
+JP3663900003,2013,no_carbon_data
+JP3667600005,2013,no_carbon_data
+JP3670800006,2013,no_carbon_data
+JP3675600005,2013,no_carbon_data
+JP3676800000,2013,no_carbon_data
+JP3684400009,2013,no_carbon_data
+JP3689500001,2013,no_carbon_data
+JP3695200000,2013,stale_prices | no_carbon_data
+JP3711200000,2013,stale_prices | no_carbon_data
+JP3718800000,2013,no_carbon_data
+JP3720800006,2013,no_carbon_data
+JP3721400004,2013,no_carbon_data
+JP3726200003,2013,no_carbon_data
+JP3729000004,2013,insufficient_history(0mo) | no_carbon_data
+JP3732200005,2013,no_carbon_data
+JP3733400000,2013,no_carbon_data
+JP3735400008,2013,stale_prices
+JP3738600000,2013,no_carbon_data
+JP3742600004,2013,no_carbon_data
+JP3753000003,2013,no_carbon_data
+JP3756100008,2013,no_carbon_data
+JP3756600007,2013,no_carbon_data
+JP3762800005,2013,no_carbon_data
+JP3765400001,2013,no_carbon_data
+JP3766550002,2013,stale_prices | no_carbon_data
+JP3768600003,2013,stale_prices | no_carbon_data
+JP3769000005,2013,stale_prices
+JP3771800004,2013,no_carbon_data
+JP3774200004,2013,no_carbon_data
+JP3780100008,2013,no_carbon_data
+JP3783420007,2013,stale_prices | no_carbon_data
+JP3783600004,2013,no_carbon_data
+JP3789000001,2013,no_carbon_data
+JP3791200003,2013,stale_prices | no_carbon_data
+JP3792600003,2013,no_carbon_data
+JP3796150005,2013,no_carbon_data
+JP3799000009,2013,no_carbon_data
+JP3802300008,2013,no_carbon_data
+JP3802400006,2013,no_carbon_data
+JP3819400007,2013,no_carbon_data
+JP3826800009,2013,no_carbon_data
+JP3834800009,2013,no_carbon_data
+JP3837800006,2013,no_carbon_data
+JP3841800000,2013,no_carbon_data
+JP3842400008,2013,insufficient_history(0mo) | no_carbon_data
+JP3845400005,2013,no_carbon_data
+JP3850200001,2013,no_carbon_data
+JP3862400003,2013,no_carbon_data
+JP3863800003,2013,no_carbon_data
+JP3869010003,2013,stale_prices | no_carbon_data
+JP3870000001,2013,no_carbon_data
+JP3877600001,2013,stale_prices
+JP3885400006,2013,no_carbon_data
+JP3885780001,2013,stale_prices
+JP3891600003,2013,no_carbon_data
+JP3892100003,2013,insufficient_history(8mo) | stale_prices
+JP3893200000,2013,no_carbon_data
+JP3894900004,2013,no_carbon_data
+JP3896800004,2013,no_carbon_data
+JP3899600005,2013,no_carbon_data
+JP3899800001,2013,insufficient_history(2mo) | no_carbon_data
+JP3901200000,2013,stale_prices | no_carbon_data
+JP3902000003,2013,no_carbon_data
+JP3906000009,2013,no_carbon_data
+JP3919800007,2013,no_carbon_data
+JP3931600005,2013,no_carbon_data
+JP3933800009,2013,no_carbon_data
+JP3935600001,2013,no_carbon_data
+JP3940400009,2013,no_carbon_data
+JP3942600002,2013,no_carbon_data
+JP3944130008,2013,stale_prices | no_carbon_data
+JP3951200009,2013,stale_prices | no_carbon_data
+JP3951600000,2013,no_carbon_data
+JP3955000009,2013,no_carbon_data
+JP3967200001,2013,stale_prices | no_carbon_data
+JP3992400006,2013,no_carbon_data
+KYG0535Q1331,2013,no_carbon_data
+KYG2108Y1052,2013,no_carbon_data
+KYG210961051,2013,no_carbon_data
+KYG217651051,2013,no_carbon_data
+KYG525621408,2013,no_carbon_data
+KYG5427W1309,2013,no_carbon_data
+KYG548561284,2013,no_carbon_data
+KYG9431R1039,2013,no_carbon_data
+MU0117U00026,2013,no_carbon_data
+NZAIRE0001S2,2013,no_carbon_data
+NZSKCE0001S2,2013,no_carbon_data
+NZTELE0001S4,2013,no_carbon_data
+SG0531000230,2013,no_carbon_data
+SG1B51001017,2013,no_carbon_data
+SG1J26887955,2013,no_carbon_data
+SG1L01001701,2013,no_carbon_data
+SG1M31001969,2013,no_carbon_data
+SG1M51904654,2013,no_carbon_data
+SG1M77906915,2013,no_carbon_data
+SG1N31909426,2013,no_carbon_data
+SG1P66918738,2013,no_carbon_data
+SG1S04926220,2013,no_carbon_data
+SG1S76928401,2013,no_carbon_data
+SG1S83002349,2013,no_carbon_data
+SG1T58930911,2013,no_carbon_data
+SG1T75931496,2013,no_carbon_data
+SG2B80958517,2013,no_carbon_data
+SG9999003735,2013,no_carbon_data
+SGXE65760014,2013,insufficient_history(0mo) | no_carbon_data
+US89677Q1076,2013,no_carbon_data
