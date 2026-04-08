@@ -1,40 +1,32 @@
 import pandas as pd
 import os
 
-def clean_pacific_strategy():
-    # 1. Charger l'univers Pacifique (Source de vérité)
+def clean_strategy():
+    # 1. Charger l'univers Pacific (exclut BBVA Argentina automatiquement)
     if not os.path.exists("Pacific_Universe.csv"):
-        print("Erreur : Pacific_Universe.csv introuvable.")
+        print("Pacific_Universe.csv introuvable.")
         return
     
     uni = pd.read_csv("Pacific_Universe.csv")
     valid_isins = uni['ISIN'].unique()
-    print(f"Univers Pacifique chargé : {len(valid_isins)} entreprises.")
 
-    # Liste des fichiers à traiter
-    files = [
-        ("DS_REV_USD_Y.csv", "Clean_Revenues_Pacific.csv"),
-        ("DS_CO2_SCOPE_1.csv", "Clean_Scope1_Pacific.csv")
-    ]
+    # 2. Filtrage des Revenus (On saute la ligne d'erreur Datastream)
+    if os.path.exists("DS_REV_USD_Y.csv"):
+        # skiprows=[1] permet d'ignorer l'erreur $$ER: E100
+        df_rev = pd.read_csv("DS_REV_USD_Y.csv", skiprows=[1])
+        clean_rev = df_rev[df_rev['ISIN'].isin(valid_isins)]
+        clean_rev.to_csv("Clean_Revenues_Pacific.csv", index=False)
+        print(f"Revenues filtrés : {len(clean_rev)} entreprises (Zone PAC).")
 
-    for source, output in files:
-        if os.path.exists(source):
-            try:
-                # On saute la ligne 1 qui contient l'erreur $$ER: E100
-                df = pd.read_csv(source, skiprows=[1])
-                
-                # Filtrage strict par ISIN pour exclure BBVA (Argentine)
-                df_filtered = df[df['ISIN'].isin(valid_isins)]
-                
-                if len(df_filtered) > 0:
-                    df_filtered.to_csv(output, index=False)
-                    print(f"Succès : {output} créé ({len(df_filtered)} entreprises).")
-                else:
-                    print(f"Attention : {source} ne contient aucune donnée pour la zone PAC.")
-            except Exception as e:
-                print(f"Erreur sur {source} : {e}")
+    # 3. Filtrage du Scope 1
+    if os.path.exists("DS_CO2_SCOPE_1.csv"):
+        df_co2 = pd.read_csv("DS_CO2_SCOPE_1.csv")
+        if len(df_co2) == 0:
+            print("Attention : Ton fichier CO2 est vide. Tu dois le remplir.")
         else:
-            print(f"Fichier {source} non trouvé.")
+            clean_co2 = df_co2[df_co2['ISIN'].isin(valid_isins)]
+            clean_co2.to_csv("Clean_Scope1_Pacific.csv", index=False)
+            print(f"Scope 1 filtré : {len(clean_co2)} entreprises.")
 
 if __name__ == "__main__":
-    clean_pacific_strategy()
+    clean_strategy()
